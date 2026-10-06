@@ -1,0 +1,1001 @@
+TransactionID,TransactionDate,CustomerName,CustomerEmail,City,State,ProductCategory,PaymentMode,Quantity,UnitPrice,DiscountPercent,TransactionAmount,OrderStatus
+TXN100001,16-10-2025,Dhanuk Deshpande,gchaudhary@basu.org,pune,Maharashtra,electronics,UPI,-1,Thirty Thousand,0,4405,completed
+TXN100002,01-06-2025,Hiran Korpal,indranslal@hotmail.com,Bangalore,TS,Apparel,Card,4,Thirty Thousand,0,3562,CANCELLED
+TXN100003,08-06-2024,Anya Wadhwa,aarush48@gmail.com,Pune,MH,Apparel,UPI,3,Thirty Thousand,20,455,Completed
+TXN100004,22-01-2025,Aaryahi Lata,ghalder@gmail.com,Bangalore,TS,Home,Card,1,3503,10,10958,Returned
+TXN100005,11-10-2024,Hridaan Hora,dubeyrenee@anand-shan.com,pune,DL,Home,Card,3,46494,20,83727,completed
+TXN100006,18-04-2025,Shayak Chad,lakshay54@kamdar.com,Bangalore,TS,electronics,COD,1,15510,10,53081,completed
+TXN100007,03-08-2025,Samaira Krishnan,vartyaniruddh@chopra-sha.com,Bangalore,KA,Apparel,NetBanking,2,17859,5,4515,Returned
+TXN100008,20-08-2025,Madhup Bose,jayant26@tata-vaidya.com,pune,TS,Apparel,UPI,1,56933,5,1410,Completed
+TXN100009,29-01-2025,Rohan Borra,ygill@ram.com,Delhi,DL,Electronics,UPI,-1,Thirty Thousand,120,1013,Returned
+TXN100010,10-06-2024,Piya Sidhu,umangsandhu@raju-varghese.com,Bangalore,DL,electronics,UPI,3,55659,5,49509,CANCELLED
+TXN100011,15-05-2025,,jiya15@gmail.com,Hyderabad,DL,electronics,UPI,2,58041,0,64199,completed
+TXN100012,06-11-2025,Vidur Tak,cshankar@yogi.com,PUNE,TS,Apparel,Card,-1,49997,120,3368,Returned
+TXN100013,13-06-2025,Urvi Sodhi,lavanya36@gour-kapadia.com,Pune,DL,Electronics,Card,-1,14932,0,83219,Completed
+TXN100014,02-02-2024,Sumer Biswas,,pune,DL,Apparel,Card,-1,Thirty Thousand,5,62493,Completed
+TXN100015,09-04-2024,Aayush Amble,daminithakkar@yahoo.com,Mumbai,KA,Electronics,UPI,1,Thirty Thousand,0,33091,Returned
+TXN100016,23-05-2024,Pihu Guha,wviswanathan@majumdar.com,pune,MH,Apparel,UPI,1,43238,0,1462,Returned
+TXN100017,07-05-2025,Yakshit Sanghvi,badal62@kashyap-brar.com,Pune,Maharashtra,Apparel,UPI,4,Thirty Thousand,10,4652,completed
+TXN100018,13-07-2024,Myra Dewan,cbava@hotmail.com,Delhi,TS,Electronics,COD,1,Thirty Thousand,20,70115,Completed
+TXN100019,09-07-2024,Uthkarsh Batra,,Hyderabad,Maharashtra,Apparel,UPI,-1,16635,20,3534,CANCELLED
+TXN100020,28-07-2024,Vivaan Devan,fatehdeo@ramesh.com,PUNE,KA,electronics,COD,4,21220,0,60568,Completed
+TXN100021,04-07-2025,Advika Bumb,halderhiran@gmail.com,PUNE,MH,electronics,COD,3,Thirty Thousand,20,40151,CANCELLED
+TXN100022,10-11-2025,Adira Kaul,urvi12@chaudhry.com,PUNE,MH,Electronics,Card,3,18965,120,1767,Returned
+TXN100023,14-09-2024,Dhanush Sule,mallickyashvi@gmail.com,Pune,KA,Home,UPI,1,22359,120,1423,Returned
+TXN100024,28-07-2025,,,Bangalore,Maharashtra,Electronics,COD,-1,36710,15,442,CANCELLED
+TXN100025,10-02-2024,Rati Dalal,vartyadah@raman.org,pune,MH,Home,NetBanking,-1,49617,5,1550,Completed
+TXN100026,02-07-2024,Piya Dora,shlok78@kaur-dugal.com,Mumbai,Maharashtra,Home,Card,1,25570,15,1734,CANCELLED
+TXN100027,08-11-2024,Aradhya Kaul,sharaflakshay@hotmail.com,pune,MH,electronics,NetBanking,3,18758,10,4273,CANCELLED
+TXN100028,29-01-2024,Jivin Boase,daliakiara@apte.net,pune,TS,Home,UPI,1,Thirty Thousand,10,41614,Returned
+TXN100029,13-08-2025,Lakshit Upadhyay,,Mumbai,MH,electronics,COD,4,Thirty Thousand,20,1120,CANCELLED
+TXN100030,13-11-2025,Gokul Shenoy,prisha79@bail-ramachandran.com,PUNE,TS,electronics,Card,4,Thirty Thousand,120,4762,Returned
+TXN100031,15-07-2025,Ivan Ratta,ehsaanchaudry@agate-rege.org,pune,KA,Home,NetBanking,4,29477,20,62521,CANCELLED
+TXN100032,11-06-2025,Aradhya Chopra,rajagopalanabram@roy-baria.biz,Pune,Maharashtra,Home,Card,2,10156,0,32592,Returned
+TXN100033,28-02-2025,Pihu Wable,saira05@gmail.com,Bangalore,KA,Apparel,NetBanking,2,10171,0,56224,Returned
+TXN100034,21-02-2024,Manjari Subramanian,qwali@guha.com,Pune,KA,electronics,NetBanking,-1,Thirty Thousand,15,4235,Returned
+TXN100035,11-06-2024,Umang Samra,fluthra@kashyap-jaggi.com,PUNE,Maharashtra,Home,NetBanking,2,Thirty Thousand,0,2020,CANCELLED
+TXN100036,23-11-2024,Raghav Singh,,pune,Maharashtra,Apparel,Card,2,Thirty Thousand,15,4545,Returned
+TXN100037,04-03-2024,Indrans Swamy,drama@chowdhury.com,Hyderabad,TS,Electronics,NetBanking,4,Thirty Thousand,10,51616,Returned
+TXN100038,12-08-2024,Shalv Chatterjee,baliela@manda.net,Mumbai,DL,Apparel,Card,4,8864,15,78080,Completed
+TXN100039,20-10-2025,Mahika Bansal,wallaanvi@yahoo.com,pune,MH,Home,NetBanking,3,Thirty Thousand,10,3205,Returned
+TXN100040,15-09-2024,Gatik Kapoor,jhanvivarghese@yahoo.com,Bangalore,TS,Electronics,COD,2,43107,120,5776,completed
+TXN100041,21-01-2024,Zeeshan Sami,jboase@hotmail.com,Mumbai,MH,electronics,NetBanking,3,Thirty Thousand,5,79915,CANCELLED
+TXN100042,20-04-2024,Nirvi Dasgupta,pbali@thaker-baral.org,Delhi,KA,Apparel,Card,1,39303,0,40029,CANCELLED
+TXN100043,29-06-2025,Ishita Gopal,xmagar@gmail.com,Delhi,DL,Electronics,NetBanking,4,Thirty Thousand,10,83807,Returned
+TXN100044,29-06-2024,Neelofar Boase,balanmishti@barad-majumdar.com,PUNE,TS,Apparel,NetBanking,4,Thirty Thousand,10,809,Returned
+TXN100045,06-09-2024,Ryan Kashyap,kapadiaurvi@gmail.com,Bangalore,KA,Home,UPI,4,Thirty Thousand,5,1837,CANCELLED
+TXN100046,14-12-2024,Damini Suri,bassibhavin@hotmail.com,PUNE,TS,Electronics,Card,1,Thirty Thousand,15,2068,Returned
+TXN100047,03-04-2025,Aniruddh Mall,,pune,KA,electronics,COD,-1,Thirty Thousand,20,2916,CANCELLED
+TXN100048,26-12-2024,Anay Chowdhury,nkrish@thakkar-sahota.org,PUNE,Maharashtra,Electronics,Card,3,8335,5,4066,CANCELLED
+TXN100049,12-04-2024,Aradhya Swamy,raunakcheema@hotmail.com,PUNE,Maharashtra,Home,UPI,-1,Thirty Thousand,0,4633,completed
+TXN100050,15-10-2025,Saanvi Banik,kimayavarghese@yahoo.com,Hyderabad,MH,Home,NetBanking,4,Thirty Thousand,5,2168,Completed
+TXN100051,07-03-2024,Hunar Bath,,Bangalore,MH,electronics,Card,-1,20412,5,4671,completed
+TXN100052,19-06-2025,Sumer Kuruvilla,urajan@bhat.org,PUNE,TS,Apparel,COD,-1,41199,20,13506,CANCELLED
+TXN100053,07-11-2025,Seher Kuruvilla,vkhosla@chaudhary-tank.org,Delhi,MH,electronics,UPI,4,Thirty Thousand,10,1996,CANCELLED
+TXN100054,20-12-2025,Tiya Date,,pune,DL,electronics,NetBanking,1,36188,120,20028,Completed
+TXN100055,02-03-2024,Divit Mahajan,jayaramanabram@amble.net,Bangalore,TS,Home,NetBanking,1,Thirty Thousand,120,2330,Returned
+TXN100056,23-03-2024,Vivaan Kothari,glalla@solanki-sarraf.biz,Bangalore,DL,Home,UPI,1,15502,120,35825,completed
+TXN100057,26-04-2025,Nitya Hora,vivaan00@yahoo.com,PUNE,Maharashtra,Apparel,NetBanking,1,Thirty Thousand,15,44187,completed
+TXN100058,03-12-2024,Pari Balasubramanian,ratithaker@hotmail.com,Bangalore,KA,Electronics,NetBanking,1,Thirty Thousand,10,15694,Returned
+TXN100059,27-02-2025,Aaryahi Kaur,jramanathan@hotmail.com,Delhi,KA,Apparel,UPI,2,18001,10,57924,Completed
+TXN100060,07-10-2025,Lakshit Bhavsar,gjha@gmail.com,pune,DL,Electronics,NetBanking,1,15225,15,1361,CANCELLED
+TXN100061,05-06-2025,Mahika Dasgupta,alisha36@hotmail.com,Mumbai,KA,electronics,NetBanking,-1,Thirty Thousand,5,79061,Completed
+TXN100062,09-10-2024,Kashvi Acharya,krishmyra@gmail.com,PUNE,TS,Home,UPI,3,Thirty Thousand,20,76511,Returned
+TXN100063,05-07-2025,Saira Jayaraman,prau@madan.com,Hyderabad,TS,Apparel,NetBanking,3,57490,120,4784,completed
+TXN100064,24-02-2025,,hridaanhora@jaggi.com,Bangalore,KA,Apparel,Card,4,2926,20,77856,Returned
+TXN100065,12-04-2024,Shray Subramaniam,jwason@hotmail.com,Bangalore,Maharashtra,Apparel,Card,1,Thirty Thousand,10,82191,CANCELLED
+TXN100066,21-11-2025,Hiran Din,ghoshritvik@hotmail.com,PUNE,KA,Electronics,UPI,2,Thirty Thousand,5,12346,Completed
+TXN100067,30-03-2025,Tushar Gala,hiranray@shah.com,Pune,MH,Home,UPI,3,Thirty Thousand,15,2100,completed
+TXN100068,23-06-2024,Tushar Malhotra,bhavsarsamarth@hotmail.com,Mumbai,TS,electronics,NetBanking,-1,9879,15,2180,CANCELLED
+TXN100069,13-11-2025,,inaaya-sampath@yahoo.com,PUNE,TS,electronics,UPI,4,Thirty Thousand,120,2148,CANCELLED
+TXN100070,22-07-2024,Neelofar Dua,bijuvyas@gmail.com,Pune,Maharashtra,Apparel,COD,-1,Thirty Thousand,0,3342,Completed
+TXN100071,02-08-2025,Biju Balasubramanian,cherianheer@gmail.com,Pune,TS,Apparel,COD,2,Thirty Thousand,5,1657,completed
+TXN100072,05-10-2025,Indrajit Basu,wadhwaanvi@yahoo.com,Pune,DL,Apparel,UPI,-1,24411,0,2776,completed
+TXN100073,24-07-2024,Rania Singh,rdani@thaman.com,PUNE,TS,Home,Card,3,Thirty Thousand,10,1043,Completed
+TXN100074,24-05-2024,Aarna Dayal,hsheth@sehgal.com,Bangalore,KA,Home,UPI,4,Thirty Thousand,20,3825,CANCELLED
+TXN100075,21-08-2025,Shaan Chhabra,vroy@hotmail.com,PUNE,MH,electronics,NetBanking,1,Thirty Thousand,20,617,CANCELLED
+TXN100076,26-10-2025,Samar Upadhyay,tushar54@bumb.info,Pune,DL,Apparel,UPI,1,15887,15,3139,completed
+TXN100077,28-02-2025,Hrishita Shan,ydhar@bakshi.com,Delhi,KA,Home,UPI,3,Thirty Thousand,15,31447,CANCELLED
+TXN100078,11-07-2025,Adira Kala,bedwin@tak-sagar.net,Pune,KA,Home,Card,1,Thirty Thousand,0,87370,Completed
+TXN100079,07-12-2024,Indrajit Dugal,ramakrishnanfaiyaz@arora.biz,Delhi,Maharashtra,Electronics,Card,-1,14652,10,19840,CANCELLED
+TXN100080,28-05-2024,Ishita Zachariah,ssamra@yahoo.com,Hyderabad,Maharashtra,Electronics,UPI,2,Thirty Thousand,5,77682,completed
+TXN100081,28-09-2024,Indrans Ray,dorayashvi@chandran.com,Delhi,MH,Electronics,NetBanking,4,Thirty Thousand,20,993,completed
+TXN100082,21-09-2025,,yuvaan53@hotmail.com,Hyderabad,TS,Home,NetBanking,1,Thirty Thousand,15,984,Returned
+TXN100083,16-03-2024,Eva Varty,rati93@shanker-sama.com,pune,MH,electronics,COD,-1,Thirty Thousand,15,4446,Returned
+TXN100084,01-06-2025,Saanvi Vohra,,Bangalore,MH,electronics,NetBanking,4,58701,15,3815,Returned
+TXN100085,07-04-2024,Lakshit Joshi,yasmin71@hayer-acharya.net,PUNE,DL,electronics,NetBanking,1,6478,0,891,completed
+TXN100086,23-07-2025,Bhavin Shere,chaudharydivyansh@yahoo.com,Delhi,DL,Electronics,NetBanking,3,Thirty Thousand,120,2456,CANCELLED
+TXN100087,16-04-2024,Pari Bobal,hchaudhuri@gmail.com,Bangalore,KA,electronics,UPI,3,Thirty Thousand,0,37012,Returned
+TXN100088,28-07-2025,Sahil Rajan,aniruddh32@gmail.com,Delhi,TS,Electronics,COD,1,Thirty Thousand,120,2883,Completed
+TXN100089,04-07-2024,Neelofar Thaman,jivikavarma@gmail.com,Mumbai,MH,electronics,UPI,1,49397,15,3816,completed
+TXN100090,13-01-2025,Navya Ram,drishya20@yahoo.com,Delhi,TS,Electronics,UPI,2,10816,120,2329,Returned
+TXN100091,12-05-2025,Farhan Mani,aradhyabasu@mand.com,pune,TS,Electronics,COD,4,Thirty Thousand,120,4958,CANCELLED
+TXN100092,16-02-2024,Ahana  Upadhyay,haridarshit@khatri.com,Pune,MH,electronics,COD,2,50789,10,38438,Completed
+TXN100093,24-05-2025,Yuvraj  Subramanian,kalasahil@sama.com,Mumbai,TS,electronics,COD,1,26522,15,2956,CANCELLED
+TXN100094,12-08-2025,Anaya Sahota,vivaanhari@gmail.com,Bangalore,KA,Home,UPI,4,Thirty Thousand,5,3869,Completed
+TXN100095,23-03-2025,Taimur Sangha,ydivan@thakur.com,Delhi,KA,Electronics,NetBanking,3,Thirty Thousand,5,44155,Completed
+TXN100096,27-06-2025,Shaan Ray,lchadha@borde.com,PUNE,DL,electronics,Card,1,Thirty Thousand,5,23240,completed
+TXN100097,05-10-2025,Aarna Upadhyay,faiyaz15@hotmail.com,Hyderabad,TS,Apparel,COD,3,Thirty Thousand,0,3722,CANCELLED
+TXN100098,28-08-2025,Jayant Acharya,mdubey@yahoo.com,PUNE,KA,Apparel,UPI,1,Thirty Thousand,0,839,Returned
+TXN100099,17-08-2025,Bhavin Agrawal,cshah@bal.com,Pune,KA,electronics,COD,-1,31670,0,947,Completed
+TXN100100,31-05-2025,Nayantara Wadhwa,,Bangalore,KA,Apparel,Card,3,Thirty Thousand,15,54078,CANCELLED
+TXN100101,08-03-2024,Yuvaan Sankar,xgrewal@gera-kadakia.net,Mumbai,DL,Home,Card,3,5841,10,41162,Completed
+TXN100102,13-11-2024,Neysa Batra,tushar83@yahoo.com,PUNE,Maharashtra,Electronics,NetBanking,-1,24212,10,40983,CANCELLED
+TXN100103,12-05-2025,Kiaan Keer,ramakrishnanmanjari@shetty.info,pune,MH,Home,UPI,-1,51020,120,1173,completed
+TXN100104,15-06-2024,Prerak Lal,uram@hotmail.com,Delhi,Maharashtra,Apparel,UPI,4,24374,15,2434,completed
+TXN100105,30-06-2025,Biju Deshpande,kartik51@gmail.com,Hyderabad,KA,electronics,COD,-1,Thirty Thousand,10,4219,completed
+TXN100106,23-07-2024,Mahika Bali,wwalla@dhaliwal.com,PUNE,MH,Apparel,COD,-1,7223,10,1413,Returned
+TXN100107,09-06-2025,Ishaan Ramachandran,jiyakumer@keer.com,pune,KA,Home,UPI,4,Thirty Thousand,20,2031,Completed
+TXN100108,18-01-2025,Faiyaz Dash,vardaniyavenkataraman@wason.org,Pune,DL,electronics,Card,1,Thirty Thousand,120,3942,Completed
+TXN100109,22-03-2024,,bhaktamanikya@goel.org,pune,TS,Apparel,UPI,3,Thirty Thousand,0,2053,Returned
+TXN100110,05-03-2024,Mishti Acharya,banerjeemohanlal@yahoo.com,Delhi,TS,Electronics,Card,2,Thirty Thousand,0,81084,Returned
+TXN100111,10-07-2024,Kaira Mallick,,PUNE,MH,Electronics,NetBanking,4,Thirty Thousand,10,233,Completed
+TXN100112,19-12-2024,Anahi Viswanathan,anandjayan@yahoo.com,Pune,TS,Home,Card,1,Thirty Thousand,120,3906,completed
+TXN100113,18-05-2024,Urvi Andra,rkale@yohannan.com,Mumbai,MH,Home,Card,1,52346,0,2640,Returned
+TXN100114,16-09-2024,,parinaazmahal@gmail.com,PUNE,DL,Electronics,COD,3,Thirty Thousand,15,3702,CANCELLED
+TXN100115,10-07-2024,Madhup Chakraborty,jramesh@yahoo.com,Hyderabad,TS,Home,UPI,4,Thirty Thousand,20,4568,CANCELLED
+TXN100116,15-04-2024,Kanav Dhawan,banerjeejayant@gmail.com,PUNE,KA,Apparel,Card,4,Thirty Thousand,0,3663,Completed
+TXN100117,17-03-2024,Devansh Chada,aarav33@gmail.com,Delhi,Maharashtra,Electronics,Card,-1,Thirty Thousand,0,17045,CANCELLED
+TXN100118,05-01-2025,Shamik Gola,wvaidya@chaudhari.com,Delhi,Maharashtra,Apparel,COD,3,29594,20,4437,Returned
+TXN100119,17-11-2024,Eshani Ravel,deyivan@yahoo.com,Pune,MH,electronics,NetBanking,-1,25861,10,34616,CANCELLED
+TXN100120,11-12-2025,Vritika Choudhury,ishita32@sankaran.com,Pune,Maharashtra,Electronics,NetBanking,2,Thirty Thousand,0,2718,Completed
+TXN100121,17-07-2025,Adira Kannan,shetharnav@hotmail.com,Hyderabad,Maharashtra,electronics,COD,-1,15195,5,2039,Completed
+TXN100122,04-01-2025,Hunar Borde,veerchakrabarti@hotmail.com,Hyderabad,TS,electronics,UPI,1,Thirty Thousand,120,4406,Returned
+TXN100123,11-08-2025,Damini Doshi,jayaramansumer@yahoo.com,Bangalore,MH,Apparel,NetBanking,-1,23078,20,84359,completed
+TXN100124,19-03-2025,Romil Bose,evasharaf@varghese.com,Hyderabad,MH,electronics,COD,2,Thirty Thousand,120,2934,Completed
+TXN100125,13-09-2024,Nehmat Dugar,skarpe@vala.net,PUNE,Maharashtra,Home,UPI,-1,42507,20,76606,CANCELLED
+TXN100126,31-07-2025,,aarav63@amble.biz,Pune,MH,Home,Card,-1,27801,15,4569,CANCELLED
+TXN100127,09-05-2025,Darshit Jain,dubedhanush@gmail.com,Mumbai,DL,Apparel,UPI,1,Thirty Thousand,15,63971,CANCELLED
+TXN100128,13-09-2025,Miraya Chokshi,kabir83@bora.com,PUNE,DL,Apparel,Card,3,34249,10,32185,CANCELLED
+TXN100129,05-04-2025,Tushar Gupta,,PUNE,KA,Apparel,Card,2,Thirty Thousand,20,41488,Returned
+TXN100130,11-06-2025,Reyansh Saran,riya78@gmail.com,Mumbai,MH,Electronics,NetBanking,-1,30465,5,76960,Completed
+TXN100131,15-10-2024,Aniruddh Sarna,bhaktarenee@yahoo.com,Bangalore,KA,Home,UPI,1,28741,10,3403,Completed
+TXN100132,14-02-2025,Tiya Bahri,sjani@sathe-sangha.com,PUNE,TS,Home,UPI,4,Thirty Thousand,20,37163,Completed
+TXN100133,07-02-2025,Ojas Kade,kartiklad@hotmail.com,Delhi,DL,electronics,Card,-1,Thirty Thousand,20,5776,completed
+TXN100134,31-12-2025,Keya Chandran,rohansule@dhingra.biz,Mumbai,Maharashtra,electronics,COD,-1,21375,15,2551,Returned
+TXN100135,26-12-2025,Hansh Datta,shamiksaini@yahoo.com,Pune,DL,Home,UPI,4,Thirty Thousand,120,318,CANCELLED
+TXN100136,02-11-2025,Armaan Basak,amira73@varty.com,Delhi,Maharashtra,Electronics,NetBanking,2,Thirty Thousand,5,89724,Completed
+TXN100137,14-07-2024,,dhaliwalyasmin@sundaram.info,pune,KA,electronics,NetBanking,-1,Thirty Thousand,120,8663,CANCELLED
+TXN100138,09-11-2025,Amira Virk,vardaniyadeo@hotmail.com,pune,KA,Home,COD,3,Thirty Thousand,5,2385,completed
+TXN100139,31-10-2024,Mishti Boase,rania97@mangal-buch.info,Bangalore,KA,Home,NetBanking,3,Thirty Thousand,10,4797,Returned
+TXN100140,19-12-2024,Tarini Krishnamurthy,azadchaudry@hotmail.com,PUNE,MH,Home,UPI,3,Thirty Thousand,120,63293,CANCELLED
+TXN100141,29-07-2025,Riya D’Alia,piyachoudhry@gmail.com,Delhi,TS,electronics,Card,1,44398,120,31018,Returned
+TXN100142,04-12-2024,Manikya Rastogi,,Hyderabad,Maharashtra,Electronics,Card,4,Thirty Thousand,15,1733,CANCELLED
+TXN100143,19-10-2024,Indrajit Chandra,wkeer@shere.com,Pune,TS,electronics,UPI,2,27886,0,52534,CANCELLED
+TXN100144,08-02-2024,,baijukaul@ramaswamy.net,Pune,DL,Home,NetBanking,-1,Thirty Thousand,5,3934,completed
+TXN100145,25-04-2024,Manikya Dhar,advika67@hotmail.com,Bangalore,DL,electronics,UPI,3,Thirty Thousand,20,88895,Returned
+TXN100146,13-03-2025,Ehsaan Kurian,,Bangalore,MH,electronics,Card,4,21707,0,34681,Returned
+TXN100147,30-09-2024,Pihu Doctor,emir67@chad-chakrabarti.com,Bangalore,TS,Electronics,COD,3,45901,0,1068,CANCELLED
+TXN100148,12-06-2024,Vihaan Sundaram,mohanlalchakraborty@yahoo.com,Bangalore,DL,Electronics,COD,3,40780,5,18007,Returned
+TXN100149,12-09-2025,Lavanya Ramachandran,stuvan76@yahoo.com,Mumbai,TS,electronics,Card,-1,57721,20,4426,Completed
+TXN100150,31-07-2025,Piya Bhalla,rohanahluwalia@hotmail.com,Delhi,Maharashtra,electronics,Card,3,Thirty Thousand,0,1782,Completed
+TXN100151,06-06-2025,Fateh Upadhyay,,pune,TS,Apparel,NetBanking,-1,Thirty Thousand,120,278,CANCELLED
+TXN100152,04-01-2024,Zara Lal,raghavsachdeva@gmail.com,Pune,KA,Home,UPI,-1,4448,15,2451,completed
+TXN100153,18-05-2024,Ira Basak,madhupmannan@gmail.com,Bangalore,KA,Home,NetBanking,4,Thirty Thousand,15,11018,CANCELLED
+TXN100154,01-05-2024,Ayesha Dugar,qshukla@sinha.com,Delhi,Maharashtra,electronics,UPI,1,Thirty Thousand,120,3574,completed
+TXN100155,10-09-2024,Seher Chadha,divit40@yahoo.com,pune,MH,Electronics,NetBanking,-1,50704,5,27511,Completed
+TXN100156,02-04-2025,Hazel Dass,pkohli@gmail.com,Pune,Maharashtra,Electronics,NetBanking,4,15857,0,4227,completed
+TXN100157,12-08-2025,Trisha Varghese,shakrish@bhatnagar.com,Bangalore,DL,electronics,COD,2,43767,15,39887,completed
+TXN100158,03-10-2025,Nayantara Kapadia,jchhabra@bora.org,Pune,DL,Apparel,COD,4,27255,10,1606,completed
+TXN100159,18-08-2024,Ivan Chandran,okant@gaba.com,Hyderabad,KA,Electronics,NetBanking,4,37022,15,32331,CANCELLED
+TXN100160,24-10-2025,Charvi Kunda,cbarad@hotmail.com,PUNE,MH,electronics,UPI,3,25218,0,25162,Returned
+TXN100161,01-08-2024,Hiran Sagar,biswassuhana@gmail.com,Pune,Maharashtra,electronics,UPI,4,16398,15,4622,CANCELLED
+TXN100162,24-01-2025,Anahi Sarkar,vrandhawa@bail.com,PUNE,DL,Home,NetBanking,4,Thirty Thousand,10,3136,Returned
+TXN100163,16-02-2024,Lakshit Kunda,divijjaggi@thaker.com,pune,MH,Home,NetBanking,3,10488,10,30649,Returned
+TXN100164,17-07-2025,Jivika Gole,emir12@hotmail.com,PUNE,KA,Apparel,NetBanking,2,Thirty Thousand,5,4577,completed
+TXN100165,09-07-2025,Manikya Ramachandran,tarinichopra@gmail.com,Delhi,MH,Electronics,UPI,1,27526,120,30834,Completed
+TXN100166,11-08-2024,Khushi Das,samihaanand@yahoo.com,Delhi,TS,Apparel,NetBanking,1,Thirty Thousand,0,4436,CANCELLED
+TXN100167,18-01-2024,Ishaan Chatterjee,kauladvik@gmail.com,Mumbai,Maharashtra,Electronics,UPI,-1,10258,5,4412,CANCELLED
+TXN100168,30-09-2024,Sahil Lad,,Mumbai,KA,electronics,Card,3,45329,120,85682,Returned
+TXN100169,23-01-2025,Nitya Bose,saanvideshpande@borde.info,Bangalore,MH,electronics,UPI,4,Thirty Thousand,120,43920,Completed
+TXN100170,23-08-2024,Dharmajan Ram,nakulsathe@soman.com,Delhi,KA,Home,UPI,1,Thirty Thousand,20,74360,CANCELLED
+TXN100171,17-01-2024,Romil Gupta,fsetty@gmail.com,Hyderabad,KA,Electronics,COD,2,37459,20,4528,Returned
+TXN100172,23-05-2024,Ryan Saxena,jiya39@ratta.info,Pune,TS,Home,UPI,1,29145,0,4979,CANCELLED
+TXN100173,31-01-2024,Aniruddh Edwin,eacharya@gmail.com,Mumbai,KA,electronics,COD,-1,Thirty Thousand,5,4899,Completed
+TXN100174,25-09-2025,Tejas Dhawan,ntalwar@srinivasan.net,Pune,MH,Home,Card,4,47140,120,2694,Completed
+TXN100175,03-04-2024,,divij45@gmail.com,PUNE,DL,Electronics,Card,1,Thirty Thousand,15,4644,Completed
+TXN100176,27-01-2024,Vivaan Sodhi,gkar@hotmail.com,Delhi,TS,Home,NetBanking,1,Thirty Thousand,15,11601,completed
+TXN100177,02-12-2025,Tanya Dubey,zaina77@gmail.com,PUNE,DL,Apparel,Card,1,Thirty Thousand,10,2555,Completed
+TXN100178,04-01-2025,Samiha Dutt,hansh23@bora.org,Bangalore,KA,electronics,NetBanking,1,Thirty Thousand,0,2821,CANCELLED
+TXN100179,26-03-2025,Rohan Buch,malhotradivit@kade.info,Hyderabad,TS,electronics,COD,3,40032,15,1555,CANCELLED
+TXN100180,25-10-2024,Samarth Rajagopalan,tandonrhea@dugar.com,Delhi,Maharashtra,Home,NetBanking,3,Thirty Thousand,10,15427,completed
+TXN100181,29-11-2025,Indrans Gopal,,Bangalore,KA,electronics,NetBanking,3,54978,15,88708,CANCELLED
+TXN100182,04-09-2024,Anya Handa,anahi66@hotmail.com,Mumbai,KA,Electronics,NetBanking,-1,Thirty Thousand,20,66902,CANCELLED
+TXN100183,19-12-2025,Badal Batra,orana@yahoo.com,Bangalore,MH,Electronics,Card,3,11401,20,3373,Returned
+TXN100184,18-04-2024,,yakshit77@bhavsar.info,Delhi,TS,electronics,NetBanking,3,Thirty Thousand,120,77647,CANCELLED
+TXN100185,26-01-2024,Anya Chanda,kalahiran@gmail.com,Pune,MH,electronics,COD,3,Thirty Thousand,5,4056,Returned
+TXN100186,09-04-2024,Shaan Chand,chhabraaarna@gmail.com,PUNE,MH,Home,UPI,1,Thirty Thousand,120,14834,completed
+TXN100187,19-07-2025,Rasha Sharaf,saanvi91@sachdev.com,Mumbai,Maharashtra,Apparel,Card,2,Thirty Thousand,15,1716,Returned
+TXN100188,02-02-2025,,hmane@choudhry-rama.com,PUNE,MH,Electronics,Card,3,21863,15,2249,CANCELLED
+TXN100189,03-09-2025,Urvi Sampath,tusharkarnik@yahoo.com,Pune,DL,Home,NetBanking,-1,Thirty Thousand,20,77854,CANCELLED
+TXN100190,30-04-2024,Kartik Choudhary,,PUNE,Maharashtra,Apparel,NetBanking,-1,Thirty Thousand,15,24847,completed
+TXN100191,16-05-2025,Abram Dewan,yashvisem@yahoo.com,Hyderabad,KA,Electronics,COD,1,32259,5,4700,Returned
+TXN100192,02-12-2025,Sara D’Alia,himmatsandal@hotmail.com,Mumbai,KA,electronics,UPI,-1,2522,10,4785,CANCELLED
+TXN100193,21-06-2024,Hansh Badal,urvi84@warrior.info,Hyderabad,KA,Electronics,UPI,3,Thirty Thousand,20,5953,Returned
+TXN100194,14-04-2024,Indrajit Gola,anahidhar@hotmail.com,pune,DL,Electronics,NetBanking,3,23344,15,15886,CANCELLED
+TXN100195,28-12-2025,Zeeshan Sethi,sagardivit@yahoo.com,Delhi,Maharashtra,electronics,Card,1,Thirty Thousand,20,37342,CANCELLED
+TXN100196,21-12-2025,Taran Choudhury,srivastavasamiha@chaudry.org,Hyderabad,TS,Electronics,Card,4,Thirty Thousand,120,17131,completed
+TXN100197,29-12-2025,Vedika Chaudry,tataanaya@gmail.com,Hyderabad,KA,Apparel,Card,-1,Thirty Thousand,120,3173,Completed
+TXN100198,10-10-2025,Dhanush Maharaj,krishnamurthyranbir@lad.com,Mumbai,TS,Home,COD,4,Thirty Thousand,20,863,CANCELLED
+TXN100199,05-03-2024,Shayak Halder,aradhyadayal@yohannan-batra.org,Mumbai,Maharashtra,Apparel,COD,3,Thirty Thousand,10,72237,Returned
+TXN100200,17-12-2024,Abram Mani,charvi24@hotmail.com,Pune,MH,Apparel,UPI,1,56707,15,105,completed
+TXN100201,06-12-2025,Saksham Swamy,ochand@kala.com,PUNE,Maharashtra,Home,UPI,3,16909,10,87598,Returned
+TXN100202,02-10-2025,Anika Ratta,elakshiapte@chandra.net,pune,KA,Electronics,UPI,1,Thirty Thousand,0,17893,Returned
+TXN100203,10-01-2024,,sakshammalhotra@cheema-vyas.com,Pune,KA,electronics,NetBanking,1,Thirty Thousand,0,945,CANCELLED
+TXN100204,02-11-2024,Zara Kanda,wbala@gmail.com,Hyderabad,Maharashtra,electronics,UPI,-1,37415,20,1444,CANCELLED
+TXN100205,06-08-2024,Ahana  Kumer,krish60@gmail.com,Mumbai,TS,Apparel,Card,1,59259,5,4929,CANCELLED
+TXN100206,15-03-2025,Pari Gara,sumer18@goda.com,PUNE,MH,electronics,COD,1,Thirty Thousand,5,68362,Returned
+TXN100207,29-10-2024,Samarth Ramakrishnan,amblejayesh@yahoo.com,Hyderabad,Maharashtra,Apparel,NetBanking,1,Thirty Thousand,120,78347,CANCELLED
+TXN100208,20-11-2024,Reyansh Bora,kiaanbains@bhargava-cherian.org,Delhi,KA,Home,Card,4,50986,0,77486,CANCELLED
+TXN100209,08-08-2024,,,Hyderabad,KA,Home,NetBanking,4,Thirty Thousand,0,84456,CANCELLED
+TXN100210,26-03-2024,Damini Dhaliwal,oraman@wable.biz,pune,Maharashtra,Home,NetBanking,-1,42069,10,57842,completed
+TXN100211,29-03-2024,Dharmajan Gola,,Delhi,TS,Electronics,COD,2,8327,120,18484,Returned
+TXN100212,21-12-2024,Uthkarsh Dass,akarshhegde@som-raju.org,Bangalore,DL,electronics,COD,2,Thirty Thousand,120,340,Returned
+TXN100213,05-10-2024,Alia Sheth,shahrasha@chander-bahl.info,Delhi,MH,Apparel,NetBanking,-1,24101,15,1467,completed
+TXN100214,18-09-2024,Seher Andra,wyadav@ravel.com,Bangalore,MH,electronics,UPI,1,56775,5,3964,Returned
+TXN100215,02-06-2024,Drishya Yohannan,adirabahri@gmail.com,Pune,TS,Apparel,Card,3,Thirty Thousand,120,42434,CANCELLED
+TXN100216,02-05-2024,Ira Mandal,janand@datta-dar.biz,pune,Maharashtra,Electronics,NetBanking,1,Thirty Thousand,10,41223,Returned
+TXN100217,09-01-2024,Samarth Chhabra,sanifaiyaz@krishna.info,Hyderabad,DL,electronics,NetBanking,3,Thirty Thousand,5,72138,Completed
+TXN100218,23-02-2025,,vaibhav34@gmail.com,Bangalore,MH,Home,UPI,4,Thirty Thousand,0,27395,Returned
+TXN100219,18-05-2025,Diya Dasgupta,romil03@mannan.info,pune,DL,Electronics,UPI,2,Thirty Thousand,120,49323,Completed
+TXN100220,01-06-2025,Seher Ahuja,suhana94@hotmail.com,Pune,TS,Electronics,NetBanking,2,Thirty Thousand,10,3319,CANCELLED
+TXN100221,08-04-2025,Adira Kale,,pune,Maharashtra,Electronics,Card,1,Thirty Thousand,15,41660,CANCELLED
+TXN100222,31-07-2024,Saira Dani,vedika49@gmail.com,Hyderabad,MH,Electronics,Card,3,54658,5,43464,completed
+TXN100223,30-12-2024,Eshani Kumar,,PUNE,DL,electronics,UPI,4,Thirty Thousand,20,72605,Returned
+TXN100224,14-04-2024,Taimur Gola,ranbir50@hotmail.com,Pune,MH,electronics,Card,2,Thirty Thousand,10,788,Completed
+TXN100225,23-01-2024,Anay Chana,farhan07@yogi.com,Bangalore,KA,electronics,UPI,3,8529,15,1476,Returned
+TXN100226,23-05-2025,,shuklalavanya@hotmail.com,pune,DL,electronics,Card,3,Thirty Thousand,5,2113,Returned
+TXN100227,25-02-2025,Charvi Chander,deviryan@karan.com,Pune,DL,Apparel,Card,4,13571,120,259,CANCELLED
+TXN100228,06-05-2025,Saksham Swamy,htandon@yahoo.com,Delhi,TS,Home,NetBanking,3,12284,10,78765,CANCELLED
+TXN100229,29-02-2024,Diya Chaudhry,badal62@lalla.com,PUNE,TS,electronics,Card,1,16743,10,70451,Returned
+TXN100230,29-12-2024,Keya Arya,xsabharwal@arya.com,pune,Maharashtra,electronics,COD,3,39268,120,46595,completed
+TXN100231,19-05-2025,Ojas Dave,yganesan@hotmail.com,Pune,MH,Electronics,Card,-1,14839,20,105,completed
+TXN100232,13-05-2024,Shayak Deep,mchahal@balasubramanian-karnik.biz,Hyderabad,DL,Electronics,UPI,2,38944,0,69482,CANCELLED
+TXN100233,22-12-2025,Hunar Jaggi,anikagokhale@loyal-buch.biz,Pune,DL,Home,COD,2,Thirty Thousand,120,64358,CANCELLED
+TXN100234,16-08-2024,Shray Basu,bariaayesha@jayaraman-baria.net,Mumbai,DL,Home,Card,2,48264,120,75582,completed
+TXN100235,08-09-2025,Urvi Shetty,zsagar@gmail.com,Delhi,Maharashtra,Electronics,NetBanking,2,22203,5,45957,Completed
+TXN100236,26-12-2025,Mishti Sundaram,daliaelakshi@kara.com,PUNE,KA,Electronics,COD,2,16853,10,34140,Completed
+TXN100237,30-01-2025,Kiara Johal,ybhardwaj@buch-sood.biz,pune,KA,Apparel,NetBanking,3,Thirty Thousand,0,63347,completed
+TXN100238,07-04-2025,Vivaan Date,elakshikar@hotmail.com,PUNE,MH,Home,COD,1,Thirty Thousand,5,49712,Completed
+TXN100239,12-12-2024,Onkar Char,qvenkatesh@yahoo.com,Mumbai,MH,Apparel,Card,-1,Thirty Thousand,5,929,completed
+TXN100240,13-07-2024,Vaibhav Bhatt,advikadas@saha.com,Bangalore,TS,Home,COD,3,16067,0,4783,completed
+TXN100241,25-02-2024,Biju Kibe,lavanyakari@gmail.com,PUNE,TS,Apparel,Card,1,2186,5,84148,Returned
+TXN100242,28-04-2024,Zoya Iyengar,gsur@hotmail.com,Mumbai,DL,Electronics,NetBanking,2,Thirty Thousand,10,24955,CANCELLED
+TXN100243,26-03-2025,Faiyaz Gokhale,echoudhry@gmail.com,PUNE,TS,Electronics,Card,1,Thirty Thousand,20,54762,Completed
+TXN100244,31-01-2025,Riya Chakraborty,ahana-97@wali.com,Delhi,KA,electronics,NetBanking,3,Thirty Thousand,120,5051,Completed
+TXN100245,04-04-2025,Badal Datta,bhandarikeya@gmail.com,pune,Maharashtra,electronics,UPI,4,Thirty Thousand,5,1311,CANCELLED
+TXN100246,09-03-2024,Ahana  Chakrabarti,tejaskapur@kunda.com,Delhi,DL,Home,NetBanking,1,Thirty Thousand,0,54821,Completed
+TXN100247,18-04-2024,Umang Char,,PUNE,TS,Home,NetBanking,3,Thirty Thousand,20,80317,completed
+TXN100248,09-10-2024,Suhana Banerjee,boraamira@gmail.com,Bangalore,KA,Electronics,NetBanking,3,45753,0,2300,Completed
+TXN100249,11-12-2024,Urvi Raj,fhegde@yahoo.com,PUNE,KA,Electronics,Card,2,Thirty Thousand,10,35813,completed
+TXN100250,28-03-2025,Yakshit Chaudhry,yacharya@contractor-kade.com,Bangalore,KA,Home,UPI,-1,52371,0,4251,completed
+TXN100251,20-06-2025,Shalv Sunder,,pune,Maharashtra,Electronics,Card,1,30413,10,2344,Returned
+TXN100252,01-06-2025,Adira Kota,annekiaan@yahoo.com,Bangalore,MH,electronics,COD,4,Thirty Thousand,5,4907,CANCELLED
+TXN100253,16-06-2024,Amira Varkey,prerakbahl@varma-chopra.com,Hyderabad,MH,Home,UPI,4,3753,20,28591,completed
+TXN100254,02-10-2024,Raunak Lalla,qsuresh@bahl.biz,Hyderabad,MH,Apparel,Card,2,39896,5,2602,Returned
+TXN100255,20-01-2025,Hiran Balakrishnan,oorjasathe@shroff.com,pune,KA,Home,NetBanking,-1,7205,20,3165,CANCELLED
+TXN100256,01-12-2025,Misha Raj,,PUNE,DL,Home,COD,3,12844,20,565,CANCELLED
+TXN100257,28-11-2025,Ira Gera,,Mumbai,DL,Home,NetBanking,4,25945,20,1655,completed
+TXN100258,03-12-2025,Hazel Devan,madhup34@chahal.com,Bangalore,DL,Home,Card,-1,Thirty Thousand,0,1148,completed
+TXN100259,27-11-2025,Indranil Verma,varghesemishti@yahoo.com,pune,DL,electronics,COD,4,Thirty Thousand,10,4896,Returned
+TXN100260,30-04-2024,Ira Sant,heerchakrabarti@dugar-vora.com,Delhi,TS,Electronics,NetBanking,2,33299,120,4440,Returned
+TXN100261,25-02-2024,Nakul Gokhale,ibhatia@yahoo.com,pune,DL,Apparel,NetBanking,2,21234,0,64408,CANCELLED
+TXN100262,11-10-2025,Rati Badal,balayaniruddh@yahoo.com,pune,Maharashtra,electronics,NetBanking,1,Thirty Thousand,120,3404,Returned
+TXN100263,27-01-2025,,vedikakrishnamurthy@tella.com,Bangalore,DL,Electronics,COD,-1,12989,120,1040,CANCELLED
+TXN100264,15-11-2024,Yuvaan Sur,mannat06@yahoo.com,Delhi,DL,electronics,UPI,1,Thirty Thousand,15,4985,Returned
+TXN100265,04-12-2025,Pihu Ben,purabswamy@hotmail.com,Mumbai,DL,electronics,Card,4,1753,5,17697,completed
+TXN100266,06-05-2024,Mahika Tak,krish55@lad.com,Pune,KA,Home,UPI,-1,3643,120,3087,Returned
+TXN100267,30-03-2025,Nitara Tara,vaibhavraval@yahoo.com,Mumbai,Maharashtra,electronics,UPI,3,28082,120,68697,Returned
+TXN100268,17-04-2024,Lakshit Chaudhary,karnikyakshit@bali.com,PUNE,MH,Electronics,NetBanking,2,40411,10,1752,Returned
+TXN100269,29-10-2024,Saksham Loyal,aroraalia@gmail.com,pune,KA,Home,Card,1,1335,0,75755,Completed
+TXN100270,07-06-2025,Mannat Sachar,golepihu@sachdeva-srinivasan.com,PUNE,Maharashtra,Apparel,COD,3,30926,0,423,CANCELLED
+TXN100271,24-11-2025,Shayak Wason,charvi04@yahoo.com,Pune,MH,Electronics,Card,2,Thirty Thousand,15,82001,CANCELLED
+TXN100272,16-12-2024,Nirvi Kant,sakshambala@yahoo.com,Mumbai,DL,Apparel,NetBanking,4,43022,0,17868,Completed
+TXN100273,02-03-2025,Raunak Hora,inaaya-04@savant-ramachandran.biz,Delhi,KA,electronics,NetBanking,3,40565,120,4057,Completed
+TXN100274,25-02-2025,Samaira Bawa,,Bangalore,DL,Electronics,Card,3,34519,15,2136,CANCELLED
+TXN100275,10-11-2025,Pihu Luthra,drishyadoctor@gmail.com,Hyderabad,TS,Electronics,UPI,2,Thirty Thousand,15,713,CANCELLED
+TXN100276,03-09-2024,Arhaan Lal,yuvraj-76@gmail.com,Delhi,Maharashtra,Apparel,NetBanking,2,Thirty Thousand,15,75608,Returned
+TXN100277,02-04-2025,Nakul Tank,bbalakrishnan@bassi.com,Bangalore,MH,Electronics,NetBanking,4,2848,0,79694,Returned
+TXN100278,15-12-2024,Kismat Trivedi,,pune,KA,Home,NetBanking,3,Thirty Thousand,0,13271,CANCELLED
+TXN100279,29-12-2024,Jivika Garg,shayakkalla@yahoo.com,PUNE,TS,Home,UPI,1,59277,15,18908,CANCELLED
+TXN100280,17-09-2025,Anvi Aurora,daliashanaya@gmail.com,Hyderabad,KA,electronics,NetBanking,2,Thirty Thousand,0,54825,Returned
+TXN100281,13-04-2025,Indrans Kalla,nishithkaran@bakshi.com,pune,KA,Electronics,UPI,-1,Thirty Thousand,20,23726,completed
+TXN100282,16-04-2024,Miraya Dey,mohanlal41@talwar.com,PUNE,TS,Apparel,NetBanking,-1,45884,10,2908,Returned
+TXN100283,16-05-2024,Charvi Comar,wchokshi@bhandari-bhasin.biz,Bangalore,TS,Home,COD,-1,41956,5,2480,completed
+TXN100284,28-12-2025,Divij Dora,zsinha@hotmail.com,Delhi,TS,Home,UPI,3,Thirty Thousand,20,3519,Returned
+TXN100285,14-01-2024,Samiha Dhingra,,pune,MH,Electronics,Card,3,49664,10,33341,CANCELLED
+TXN100286,27-07-2024,Samaira Chakrabarti,,Hyderabad,KA,Electronics,Card,-1,25986,20,484,Returned
+TXN100287,02-03-2025,Farhan Rattan,sahotaveer@dhingra.com,PUNE,TS,Electronics,UPI,3,Thirty Thousand,5,83571,completed
+TXN100288,28-10-2024,Yuvraj  Dora,darshitchakrabarti@hotmail.com,Pune,Maharashtra,electronics,UPI,4,Thirty Thousand,10,73454,completed
+TXN100289,21-08-2025,Kavya Chacko,,Mumbai,Maharashtra,Electronics,Card,3,39617,120,2567,CANCELLED
+TXN100290,15-03-2024,Nitya Jani,sjayaraman@kapadia-barad.com,pune,Maharashtra,Electronics,Card,4,Thirty Thousand,0,46296,CANCELLED
+TXN100291,05-12-2024,Sahil Rout,goelaniruddh@yahoo.com,Hyderabad,TS,Apparel,UPI,1,Thirty Thousand,15,32002,CANCELLED
+TXN100292,25-01-2025,Samar Dass,obaral@badal-brar.com,Mumbai,DL,Home,UPI,-1,Thirty Thousand,20,3750,Completed
+TXN100293,30-10-2024,Hridaan Gour,arao@sehgal-sura.info,Delhi,MH,Electronics,Card,-1,35444,120,9081,Returned
+TXN100294,16-04-2024,Tanya Shukla,qdhawan@bir.com,Bangalore,KA,Electronics,Card,1,Thirty Thousand,0,11971,completed
+TXN100295,14-09-2024,Mannat Taneja,vaibhavsachdev@gmail.com,pune,DL,Apparel,NetBanking,4,Thirty Thousand,15,238,Completed
+TXN100296,01-07-2025,,ivanabawa@sangha.com,Pune,TS,Electronics,UPI,3,33453,10,808,Returned
+TXN100297,25-01-2025,Damini Borra,zaragoyal@deep.com,Mumbai,Maharashtra,electronics,Card,4,Thirty Thousand,120,2541,Completed
+TXN100298,20-07-2025,Vanya Sen,zoya41@dar.com,Pune,MH,Apparel,UPI,3,Thirty Thousand,5,54587,completed
+TXN100299,07-07-2024,Prisha Dalal,tiyagill@hotmail.com,pune,MH,electronics,UPI,-1,30729,10,651,Completed
+TXN100300,21-07-2024,Ishita Seshadri,cmangal@mani.com,PUNE,DL,electronics,Card,1,19186,5,4080,CANCELLED
+TXN100301,23-09-2025,Hansh Bains,sehgalmehul@amble.biz,pune,TS,Home,COD,4,11551,10,1914,CANCELLED
+TXN100302,03-01-2025,Sahil Comar,yakshitbhat@talwar.info,Mumbai,KA,Apparel,COD,3,32414,5,771,completed
+TXN100303,05-07-2025,Mahika Lata,adugar@yahoo.com,Bangalore,MH,Electronics,UPI,-1,41894,20,76377,Completed
+TXN100304,18-07-2025,Mishti Tara,pviswanathan@hotmail.com,Delhi,KA,electronics,COD,4,Thirty Thousand,5,61409,Returned
+TXN100305,07-01-2025,Amani Lalla,mdivan@gmail.com,Hyderabad,TS,electronics,Card,4,10934,20,1297,CANCELLED
+TXN100306,11-02-2024,Dhruv Mandal,bainsbiju@hotmail.com,Pune,DL,Home,Card,1,44316,20,3279,Returned
+TXN100307,17-02-2024,,ybehl@rajagopalan-bala.com,Pune,TS,Home,COD,-1,36174,15,3200,Completed
+TXN100308,13-06-2025,Tarini Buch,neelofarsaran@zacharia-grover.com,pune,TS,Apparel,COD,3,Thirty Thousand,20,1364,Returned
+TXN100309,18-06-2024,Keya Chad,ichaudhary@bedi.com,PUNE,Maharashtra,electronics,Card,2,24238,120,3496,Completed
+TXN100310,08-05-2025,Heer Dyal,hrishita82@rajagopalan.info,Delhi,Maharashtra,Apparel,UPI,2,3327,20,78140,Completed
+TXN100311,09-08-2025,Taimur Kapur,aaina89@gmail.com,pune,TS,Apparel,UPI,3,6119,15,3961,completed
+TXN100312,12-08-2024,Tejas Chaudhuri,sumer23@wali-ahluwalia.com,Hyderabad,TS,electronics,COD,2,Thirty Thousand,15,78688,completed
+TXN100313,22-01-2025,Sana Gour,,pune,TS,Apparel,Card,-1,6811,15,81076,Completed
+TXN100314,08-05-2025,Manikya Mahajan,zaina72@sura-rastogi.com,Delhi,MH,Apparel,NetBanking,3,57832,120,69944,Returned
+TXN100315,25-01-2025,Mehul Bora,armaansarna@gmail.com,Hyderabad,TS,Electronics,NetBanking,2,Thirty Thousand,5,2420,CANCELLED
+TXN100316,12-07-2024,,qjha@yahoo.com,Pune,TS,Electronics,UPI,4,43396,120,3449,Completed
+TXN100317,07-06-2024,Lakshit Barad,kalitakismat@banik-deep.com,PUNE,TS,Apparel,COD,-1,Thirty Thousand,5,4622,completed
+TXN100318,14-01-2025,Urvi Dass,zaratailor@soni.biz,PUNE,TS,Home,NetBanking,2,56533,120,30616,Completed
+TXN100319,07-08-2024,Anahi Walia,biswasaniruddh@sheth.com,Hyderabad,TS,Electronics,Card,4,42172,0,3963,Completed
+TXN100320,06-03-2024,Mohanlal Soni,divyanshboase@yahoo.com,Delhi,MH,Apparel,NetBanking,-1,Thirty Thousand,120,78811,Returned
+TXN100321,25-03-2025,,bvirk@gmail.com,Hyderabad,TS,Home,Card,1,51877,20,395,completed
+TXN100322,01-11-2025,,advikbhatt@dhar.info,PUNE,KA,Home,NetBanking,4,38909,20,2514,CANCELLED
+TXN100323,26-07-2025,Navya Verma,tejasbanik@sangha-vala.com,Hyderabad,DL,electronics,Card,4,26973,10,23442,Completed
+TXN100324,30-05-2025,Ivan Trivedi,adahsibal@dash.info,Hyderabad,TS,Home,COD,4,Thirty Thousand,5,3858,Completed
+TXN100325,08-05-2025,Arhaan Rajagopalan,,Bangalore,Maharashtra,electronics,COD,4,23640,120,2133,Completed
+TXN100326,12-02-2025,Akarsh Khalsa,mmander@hotmail.com,Pune,TS,electronics,NetBanking,3,23669,20,35768,Returned
+TXN100327,23-07-2024,Lakshay Cheema,yakshit49@bail.com,PUNE,Maharashtra,electronics,Card,2,Thirty Thousand,5,14483,Returned
+TXN100328,20-09-2025,,agera@hotmail.com,Pune,KA,Home,COD,4,Thirty Thousand,15,4287,Returned
+TXN100329,15-08-2024,Dharmajan Brar,wasonabram@mandal.org,Delhi,KA,Apparel,UPI,-1,Thirty Thousand,120,23411,Returned
+TXN100330,19-11-2024,Vidur Chandra,,pune,KA,Electronics,COD,3,Thirty Thousand,5,72401,CANCELLED
+TXN100331,27-04-2025,Riaan Grover,zganguly@hotmail.com,pune,KA,Apparel,Card,4,Thirty Thousand,10,2390,completed
+TXN100332,08-08-2025,Inaaya  Chaudhary,divyanshdevan@yahoo.com,pune,MH,Home,Card,-1,Thirty Thousand,5,1325,Completed
+TXN100333,29-06-2024,Saanvi Mall,bhattivihaan@lad.biz,Hyderabad,TS,Home,NetBanking,3,16947,15,13472,completed
+TXN100334,17-09-2024,Yakshit Sethi,mahikamandal@hotmail.com,Mumbai,DL,Home,COD,3,Thirty Thousand,10,3099,CANCELLED
+TXN100335,26-11-2025,Jayant Dhar,kiara99@balasubramanian-chaudhry.info,Delhi,TS,electronics,COD,3,Thirty Thousand,120,742,CANCELLED
+TXN100336,19-04-2025,Mamooty Bava,virkindrans@ganesan.com,pune,DL,Apparel,NetBanking,1,5684,10,2668,CANCELLED
+TXN100337,28-12-2025,Mamooty Karan,auroratejas@gmail.com,PUNE,KA,Home,NetBanking,4,11465,0,2022,Completed
+TXN100338,03-08-2024,Sara Kuruvilla,,Pune,KA,Electronics,UPI,4,34839,0,34900,Returned
+TXN100339,12-11-2024,Dhanuk Doshi,pbrar@mander.org,Mumbai,Maharashtra,electronics,Card,1,Thirty Thousand,10,3927,Returned
+TXN100340,18-05-2024,Raunak Ranganathan,sharmaishaan@ram-garde.com,pune,TS,Apparel,NetBanking,-1,Thirty Thousand,10,63631,Completed
+TXN100341,28-03-2025,Manikya Rout,dewanmanjari@yahoo.com,pune,DL,Electronics,UPI,-1,53936,10,38086,Returned
+TXN100342,03-05-2025,Adah Kala,chaudharyvedika@hotmail.com,Hyderabad,DL,electronics,UPI,-1,24987,15,3680,completed
+TXN100343,16-06-2024,Baiju Bhargava,udevi@yahoo.com,Hyderabad,KA,electronics,COD,1,28171,20,2327,CANCELLED
+TXN100344,26-02-2025,Seher Shetty,,pune,DL,Electronics,NetBanking,-1,Thirty Thousand,120,82125,CANCELLED
+TXN100345,20-01-2024,Navya Mann,hazelrajagopal@hotmail.com,Pune,Maharashtra,Electronics,COD,3,Thirty Thousand,120,1575,completed
+TXN100346,16-01-2024,Manikya Ramachandran,khushi44@yahoo.com,PUNE,KA,Home,NetBanking,1,22143,5,2283,Completed
+TXN100347,10-07-2025,Aarav Khalsa,nshroff@yahoo.com,Hyderabad,DL,Apparel,UPI,1,50841,15,58559,completed
+TXN100348,16-04-2025,Zain Setty,,Bangalore,Maharashtra,Apparel,NetBanking,3,21672,120,6029,CANCELLED
+TXN100349,07-05-2025,Elakshi Chad,saanvirege@gupta.com,Pune,Maharashtra,Electronics,Card,4,21767,5,36688,Returned
+TXN100350,05-09-2024,,,Hyderabad,KA,electronics,COD,1,16800,15,12480,Completed
+TXN100351,30-12-2024,Lagan Uppal,lavanyabalakrishnan@khosla-bassi.net,Hyderabad,MH,electronics,NetBanking,2,Thirty Thousand,15,274,CANCELLED
+TXN100352,17-05-2024,Elakshi Kale,,Bangalore,KA,Home,NetBanking,2,37639,20,2751,CANCELLED
+TXN100353,05-09-2025,Tarini Raj,samiha22@hayer.net,Pune,TS,electronics,NetBanking,3,Thirty Thousand,20,48618,Returned
+TXN100354,08-07-2024,Eshani Chatterjee,keya68@dubey.com,PUNE,TS,electronics,COD,1,Thirty Thousand,5,69190,CANCELLED
+TXN100355,26-11-2024,Shamik Mangal,trisha07@hotmail.com,Pune,TS,Electronics,UPI,2,12207,5,14531,Completed
+TXN100356,02-02-2024,Mamooty Yohannan,zdevan@gmail.com,Bangalore,KA,Home,UPI,3,14965,0,27859,Returned
+TXN100357,16-10-2025,Raghav Golla,diyaray@yahoo.com,Mumbai,DL,Electronics,COD,-1,3164,10,10715,Completed
+TXN100358,24-08-2024,Hrishita Soman,dixitjayesh@devi.com,Delhi,Maharashtra,electronics,NetBanking,1,Thirty Thousand,120,60625,completed
+TXN100359,03-07-2024,Vaibhav Wadhwa,hegdemanikya@tandon.org,Bangalore,Maharashtra,Apparel,COD,3,Thirty Thousand,10,3627,completed
+TXN100360,30-07-2025,Rania Bera,ychakraborty@gmail.com,Delhi,DL,Home,NetBanking,4,26523,120,5043,completed
+TXN100361,05-11-2024,,nirvidalal@jayaraman.net,pune,DL,Electronics,COD,-1,34006,0,3871,completed
+TXN100362,21-05-2024,Ranbir Raval,tejas47@hotmail.com,pune,Maharashtra,Home,COD,1,Thirty Thousand,20,732,Returned
+TXN100363,26-06-2024,Kashvi Manda,wgara@hotmail.com,Bangalore,TS,Electronics,COD,1,Thirty Thousand,0,2839,Returned
+TXN100364,02-03-2025,Vivaan Grover,dishani36@mani.org,Hyderabad,Maharashtra,Electronics,NetBanking,1,20474,10,71269,CANCELLED
+TXN100365,29-05-2025,Shanaya Sridhar,arhaankrishnan@gmail.com,Bangalore,KA,Apparel,UPI,2,Thirty Thousand,15,1182,Completed
+TXN100366,02-05-2025,Keya Bumb,,Mumbai,DL,Electronics,NetBanking,-1,28974,5,63535,Returned
+TXN100367,08-02-2025,Samaira Lata,gadebaiju@tank-krishnan.net,Delhi,TS,electronics,Card,1,Thirty Thousand,10,75999,Returned
+TXN100368,09-03-2025,Riaan Kothari,manjarihora@dugal.net,PUNE,TS,Electronics,COD,2,Thirty Thousand,20,19612,completed
+TXN100369,23-07-2024,Advika Varkey,ltalwar@lall-talwar.com,Bangalore,MH,Electronics,UPI,2,41198,10,2300,CANCELLED
+TXN100370,05-04-2025,Khushi Saran,lagan50@hotmail.com,Bangalore,TS,electronics,Card,-1,Thirty Thousand,20,63811,Returned
+TXN100371,19-08-2025,Renee Seth,samairaramesh@hotmail.com,PUNE,Maharashtra,Electronics,COD,2,Thirty Thousand,0,61443,Returned
+TXN100372,07-11-2025,Tejas Dhawan,mamooty94@bhasin.info,Bangalore,DL,Electronics,UPI,3,Thirty Thousand,5,50399,CANCELLED
+TXN100373,11-05-2025,Zara Mammen,zara23@hotmail.com,pune,Maharashtra,Apparel,UPI,1,Thirty Thousand,10,64716,Completed
+TXN100374,21-12-2024,Farhan Ramanathan,othaker@gmail.com,PUNE,Maharashtra,Home,UPI,3,Thirty Thousand,0,73237,completed
+TXN100375,15-12-2024,Navya Aggarwal,kabir56@srinivasan.com,Pune,KA,electronics,NetBanking,2,38045,15,2797,completed
+TXN100376,30-07-2024,Mamooty Mallick,eshani26@kaul-borde.org,Bangalore,Maharashtra,electronics,COD,-1,Thirty Thousand,5,86513,CANCELLED
+TXN100377,10-03-2024,Lakshay Iyengar,kauloorja@chander.com,Pune,Maharashtra,Home,Card,1,Thirty Thousand,15,2585,CANCELLED
+TXN100378,04-06-2024,Indrans Ravi,,pune,MH,Home,Card,-1,15716,120,3918,Returned
+TXN100379,17-05-2024,Aayush Issac,ibhardwaj@vala.com,Bangalore,DL,electronics,NetBanking,4,31554,5,25830,Returned
+TXN100380,16-01-2024,Ojas Sarin,shrayrastogi@gmail.com,pune,Maharashtra,electronics,UPI,2,Thirty Thousand,120,43084,Returned
+TXN100381,18-02-2025,Saksham Khalsa,ranbirdube@hotmail.com,Hyderabad,KA,Home,NetBanking,-1,49158,20,3799,Completed
+TXN100382,08-09-2024,Elakshi Bora,qranganathan@gmail.com,Bangalore,MH,Apparel,UPI,2,Thirty Thousand,15,2442,completed
+TXN100383,08-03-2025,Tara Loke,yashvi30@dara-raja.com,Bangalore,TS,electronics,NetBanking,4,6427,5,77235,Returned
+TXN100384,27-02-2025,Nehmat Randhawa,,Mumbai,TS,electronics,NetBanking,1,Thirty Thousand,120,85510,Completed
+TXN100385,26-04-2024,Misha Master,urvibose@vohra-varty.com,Pune,TS,Apparel,Card,4,Thirty Thousand,0,22898,completed
+TXN100386,28-05-2024,Dhanuk Varkey,rdeshmukh@gmail.com,Mumbai,DL,Home,NetBanking,3,41555,0,17745,CANCELLED
+TXN100387,13-01-2024,Bhamini Batra,keya66@hotmail.com,Delhi,MH,Apparel,Card,2,Thirty Thousand,15,54259,Completed
+TXN100388,07-09-2024,Umang Majumdar,wvarma@kar.com,Bangalore,TS,electronics,UPI,2,10216,120,46246,Completed
+TXN100389,14-11-2025,Yashvi Majumdar,vsuri@hotmail.com,PUNE,MH,Electronics,UPI,4,12181,120,37774,Returned
+TXN100390,15-08-2025,Nishith Varkey,,Hyderabad,DL,Home,COD,4,54256,15,631,Returned
+TXN100391,17-05-2024,Rasha Ratta,vivaan04@hotmail.com,PUNE,TS,Apparel,Card,2,40611,0,75390,Returned
+TXN100392,06-12-2025,Vivaan Raja,ganeshnavya@shanker-kapoor.org,Bangalore,DL,Apparel,COD,3,Thirty Thousand,5,4709,Returned
+TXN100393,19-05-2025,Rohan Dasgupta,zoya75@hotmail.com,pune,DL,electronics,UPI,1,Thirty Thousand,120,1798,Returned
+TXN100394,16-02-2024,Bhamini Hayer,jjhaveri@gmail.com,Bangalore,Maharashtra,Electronics,Card,3,17173,10,4250,Completed
+TXN100395,26-04-2024,Tara Saraf,myra05@gmail.com,Bangalore,TS,Electronics,Card,2,Thirty Thousand,120,63297,completed
+TXN100396,08-05-2025,Taran Sachar,tsant@rama-walia.com,Hyderabad,TS,Home,NetBanking,4,49166,20,4728,Completed
+TXN100397,01-08-2024,Amani Bhasin,mohanlal77@hotmail.com,Hyderabad,DL,Electronics,Card,3,55598,10,49683,Returned
+TXN100398,10-07-2024,Jayant Thakur,psidhu@deep.com,Hyderabad,DL,Home,UPI,3,27623,15,3144,CANCELLED
+TXN100399,09-08-2024,Mamooty Bora,charvi14@yahoo.com,PUNE,MH,electronics,UPI,4,33660,15,66043,CANCELLED
+TXN100400,10-05-2025,Indrans Vaidya,bhaminicomar@shah.biz,Hyderabad,DL,electronics,UPI,-1,44849,5,3863,Completed
+TXN100401,05-01-2024,Shayak Lad,,Hyderabad,TS,Electronics,COD,4,58773,0,68733,CANCELLED
+TXN100402,16-10-2025,Yasmin Chaudry,shaankapadia@subramaniam-vaidya.org,pune,DL,Home,COD,4,44482,10,1390,Completed
+TXN100403,16-01-2024,Anika Sekhon,samarray@bhakta.info,Pune,Maharashtra,Home,COD,3,Thirty Thousand,20,32589,CANCELLED
+TXN100404,19-09-2025,Aarna Balakrishnan,indranilsachdeva@hotmail.com,Pune,Maharashtra,Electronics,NetBanking,1,Thirty Thousand,0,3593,completed
+TXN100405,22-12-2025,Anay Krishnamurthy,sairasoman@saran.com,Hyderabad,KA,Home,COD,3,54071,120,88432,Returned
+TXN100406,04-08-2025,Purab Bhattacharyya,bhaminibarad@gokhale.com,Bangalore,KA,Electronics,NetBanking,3,Thirty Thousand,15,30868,CANCELLED
+TXN100407,07-01-2025,Kiara Dhar,dartaran@yahoo.com,Bangalore,DL,Home,NetBanking,4,2483,15,2979,Returned
+TXN100408,23-06-2024,Jayan Batta,baiju38@chakraborty.biz,Delhi,Maharashtra,Electronics,NetBanking,1,21856,10,3876,Returned
+TXN100409,01-09-2024,Kismat Karnik,chakrabortyarmaan@dhingra-grewal.com,Mumbai,KA,Electronics,COD,2,Thirty Thousand,15,74845,completed
+TXN100410,09-11-2025,Hunar Chawla,samimadhup@gmail.com,Bangalore,TS,Apparel,UPI,-1,Thirty Thousand,10,899,completed
+TXN100411,11-11-2024,Manikya Kumar,,Pune,TS,Apparel,COD,4,42770,0,29022,completed
+TXN100412,07-11-2025,Yasmin Chowdhury,aainajhaveri@kata.info,Mumbai,TS,Apparel,Card,2,Thirty Thousand,10,2594,CANCELLED
+TXN100413,01-04-2024,Khushi Choudhry,amirasubramanian@gupta-choudhury.com,Delhi,KA,electronics,COD,1,24697,0,73904,CANCELLED
+TXN100414,01-02-2024,Baiju Zacharia,deepseher@yahoo.com,Mumbai,DL,Apparel,NetBanking,4,29020,120,23229,completed
+TXN100415,22-07-2025,Zain Chokshi,prerak56@gmail.com,Hyderabad,KA,electronics,COD,2,9300,0,85485,Returned
+TXN100416,04-11-2025,Divij Bal,anika28@gmail.com,Pune,Maharashtra,Apparel,NetBanking,-1,28398,15,3574,Returned
+TXN100417,29-12-2024,Shamik Bawa,kdoshi@hotmail.com,Pune,TS,Apparel,Card,-1,Thirty Thousand,20,76043,Completed
+TXN100418,04-08-2025,Vidur Keer,zbhagat@bawa.com,Delhi,KA,Electronics,Card,-1,Thirty Thousand,15,68257,completed
+TXN100419,28-04-2025,Lakshay Bhandari,ksoman@yahoo.com,Bangalore,MH,Home,UPI,3,35563,15,4299,CANCELLED
+TXN100420,07-03-2025,Vivaan Behl,virknirvi@khatri.com,PUNE,DL,electronics,UPI,-1,Thirty Thousand,120,74386,Returned
+TXN100421,15-08-2025,Aayush Raju,,PUNE,TS,Electronics,COD,4,5907,20,2376,completed
+TXN100422,22-09-2025,Lagan Saha,davenayantara@gmail.com,Pune,MH,electronics,Card,4,24733,10,31458,Completed
+TXN100423,17-12-2024,Riya Doctor,shenoykanav@yahoo.com,Delhi,Maharashtra,Apparel,NetBanking,4,Thirty Thousand,120,84068,CANCELLED
+TXN100424,25-02-2024,Zara Dhar,indranildalal@hotmail.com,Pune,MH,electronics,NetBanking,4,Thirty Thousand,15,2014,Returned
+TXN100425,30-04-2025,Samar Kala,khora@yahoo.com,Mumbai,MH,Home,NetBanking,4,Thirty Thousand,20,897,Returned
+TXN100426,17-09-2025,Nayantara Swamy,schandran@gopal.info,PUNE,DL,Home,UPI,3,Thirty Thousand,15,89011,CANCELLED
+TXN100427,24-11-2025,Miraan Manne,aniruddhtak@yahoo.com,Delhi,MH,Electronics,UPI,1,27451,20,3753,completed
+TXN100428,17-10-2024,Advik Master,,Delhi,MH,Electronics,Card,-1,42317,120,16225,Returned
+TXN100429,03-11-2025,Arnav Krishna,reyanshbadal@hotmail.com,Hyderabad,Maharashtra,Electronics,Card,3,Thirty Thousand,120,3814,Returned
+TXN100430,09-12-2025,Uthkarsh Mahal,aarna45@bumb.info,PUNE,DL,electronics,UPI,3,51428,15,51433,CANCELLED
+TXN100431,28-09-2024,Krish Kannan,,pune,TS,Apparel,Card,4,7606,20,57025,Returned
+TXN100432,22-09-2024,Rohan Sheth,,Delhi,DL,Apparel,UPI,4,10255,0,3298,completed
+TXN100433,17-12-2025,Zaina Bava,sanionkar@anne.com,Pune,TS,Apparel,NetBanking,4,26970,20,127,Returned
+TXN100434,04-05-2024,Nakul Mahal,rhalder@borah.org,PUNE,DL,Home,NetBanking,1,41936,10,70574,Returned
+TXN100435,23-10-2024,Zain Sahota,uvohra@kala.com,Pune,KA,electronics,COD,4,59250,120,47589,Returned
+TXN100436,13-07-2024,Gatik Chaudry,jivikajohal@yahoo.com,Bangalore,TS,electronics,NetBanking,4,Thirty Thousand,15,70484,Completed
+TXN100437,13-12-2024,Sumer Varghese,dinsumer@gmail.com,Pune,KA,Electronics,Card,-1,30539,120,76436,Completed
+TXN100438,24-05-2024,Baiju Borah,,Delhi,MH,electronics,Card,1,11788,10,13252,Completed
+TXN100439,18-04-2024,Krish Sarin,prisha16@yahoo.com,Delhi,Maharashtra,Electronics,Card,4,Thirty Thousand,10,16333,CANCELLED
+TXN100440,06-08-2024,Yashvi Sandal,neysa58@dugar.org,PUNE,MH,Electronics,COD,2,Thirty Thousand,5,48987,Returned
+TXN100441,06-09-2024,Kaira Iyengar,,Pune,TS,Apparel,Card,1,Thirty Thousand,0,1332,Completed
+TXN100442,24-12-2025,Shray Sem,fkrish@gmail.com,Mumbai,KA,electronics,Card,2,Thirty Thousand,20,59537,completed
+TXN100443,17-09-2025,Lavanya Kibe,kanavshenoy@bains-choudhry.org,Bangalore,KA,Electronics,COD,3,27945,20,31385,Completed
+TXN100444,25-09-2025,Hridaan Ramachandran,barmanalisha@bandi.com,Delhi,TS,electronics,NetBanking,2,18615,5,1322,Returned
+TXN100445,29-06-2024,Inaaya  Majumdar,mohanlalchaudhuri@yahoo.com,Pune,DL,Home,Card,4,Thirty Thousand,20,59894,Completed
+TXN100446,04-07-2025,Purab Dutta,dbasak@gmail.com,Mumbai,TS,Electronics,UPI,2,Thirty Thousand,20,2770,completed
+TXN100447,24-11-2025,Onkar Bahri,ojasrajagopalan@krish-goel.com,Pune,DL,electronics,UPI,2,Thirty Thousand,5,49721,Returned
+TXN100448,22-08-2025,Heer Kadakia,ygarg@gara-singhal.com,pune,Maharashtra,Apparel,Card,4,24976,15,3037,completed
+TXN100449,09-12-2024,Jivin Chokshi,dharmanikya@dalia.com,Pune,DL,electronics,UPI,4,Thirty Thousand,5,1901,completed
+TXN100450,15-10-2025,Lakshit Dugar,darvaibhav@gmail.com,Delhi,TS,electronics,UPI,4,Thirty Thousand,5,3978,CANCELLED
+TXN100451,15-01-2024,Arnav Lad,jtoor@gmail.com,pune,Maharashtra,Home,NetBanking,-1,15075,20,1165,Completed
+TXN100452,26-04-2025,Ranbir Devi,prerakdevi@madan.biz,Mumbai,TS,Apparel,NetBanking,1,Thirty Thousand,5,11390,Returned
+TXN100453,11-08-2024,Jhanvi Dugal,yakshitjani@dixit-balasubramanian.com,Bangalore,MH,Electronics,NetBanking,3,Thirty Thousand,20,299,Returned
+TXN100454,21-05-2024,Pihu Mander,rania60@hotmail.com,Hyderabad,DL,Apparel,UPI,1,Thirty Thousand,20,2529,CANCELLED
+TXN100455,15-12-2025,Piya Chanda,warrioraniruddh@joshi-dugal.net,Hyderabad,Maharashtra,Electronics,COD,1,Thirty Thousand,0,3237,Returned
+TXN100456,25-09-2025,,vidurchopra@gmail.com,Bangalore,TS,Electronics,Card,2,22449,20,15384,completed
+TXN100457,24-11-2024,Ivan Bhargava,tejas66@manne-amble.org,Bangalore,KA,Home,UPI,1,Thirty Thousand,15,64230,Returned
+TXN100458,27-12-2025,Siya Kaul,kotasuhana@hotmail.com,PUNE,KA,Home,UPI,2,Thirty Thousand,0,11008,CANCELLED
+TXN100459,19-03-2024,Tanya Mallick,hunar27@gmail.com,Bangalore,Maharashtra,Apparel,Card,2,34623,10,55096,Returned
+TXN100460,21-12-2024,Manjari Raju,doshiazad@gmail.com,Pune,DL,electronics,UPI,1,57633,20,2851,CANCELLED
+TXN100461,02-11-2025,Tushar Madan,arhaandhingra@deshmukh-rama.com,Delhi,TS,Apparel,NetBanking,3,37675,10,23009,Returned
+TXN100462,15-01-2025,Hazel Wagle,jbobal@hotmail.com,Pune,Maharashtra,Home,COD,4,11402,120,70665,completed
+TXN100463,26-12-2025,Mannat Anand,hsibal@gmail.com,pune,Maharashtra,electronics,UPI,1,21250,15,34632,completed
+TXN100464,29-07-2025,Anahita Bhasin,lakshay64@hotmail.com,PUNE,Maharashtra,Home,NetBanking,-1,Thirty Thousand,0,3414,completed
+TXN100465,14-04-2025,Miraya Vasa,dharmajan50@bajwa.org,Bangalore,TS,Home,COD,4,Thirty Thousand,20,1304,CANCELLED
+TXN100466,06-12-2025,Neelofar Maharaj,taranbarad@gmail.com,Pune,Maharashtra,Electronics,COD,1,26821,15,857,Completed
+TXN100467,14-09-2025,Nirvi Viswanathan,subramaniansamaira@gmail.com,pune,DL,electronics,UPI,1,Thirty Thousand,120,815,completed
+TXN100468,17-05-2025,Lakshay Bhatt,jayeshdubey@gmail.com,Pune,DL,Apparel,Card,4,Thirty Thousand,10,2431,CANCELLED
+TXN100469,11-11-2024,Romil Dhar,iradixit@dugal.biz,Pune,Maharashtra,Apparel,NetBanking,4,19415,120,56052,Completed
+TXN100470,27-05-2024,Sumer Sahota,andrasahil@yahoo.com,Hyderabad,TS,Home,UPI,-1,Thirty Thousand,0,3454,Returned
+TXN100471,28-06-2024,Priyansh Sane,hariazad@karnik-agate.com,Hyderabad,Maharashtra,electronics,Card,4,Thirty Thousand,0,4894,Returned
+TXN100472,26-07-2025,Charvi Hari,kavya43@gmail.com,Hyderabad,MH,electronics,COD,3,Thirty Thousand,0,2456,completed
+TXN100473,18-05-2025,Indrajit Devi,ahana-sahota@yahoo.com,Pune,MH,Home,NetBanking,1,Thirty Thousand,20,4733,CANCELLED
+TXN100474,05-10-2025,Piya Karpe,priyanshbadal@talwar.org,Hyderabad,MH,Home,UPI,3,11172,5,42401,CANCELLED
+TXN100475,16-06-2024,Tiya Mannan,frana@yahoo.com,Bangalore,DL,Electronics,COD,3,35208,20,25903,completed
+TXN100476,10-07-2025,Umang Sampath,divijraval@yahoo.com,Hyderabad,DL,Home,COD,1,Thirty Thousand,5,1221,CANCELLED
+TXN100477,11-05-2025,Jayesh Jain,schaudry@gmail.com,pune,MH,electronics,Card,-1,14990,20,80903,Returned
+TXN100478,16-04-2025,Zaina Bawa,,pune,MH,Apparel,COD,3,Thirty Thousand,5,4995,completed
+TXN100479,27-12-2025,Nayantara Sarraf,kbansal@yahoo.com,Pune,Maharashtra,electronics,Card,2,20647,5,743,Completed
+TXN100480,20-03-2024,,deakarsh@yahoo.com,Mumbai,MH,electronics,UPI,1,52473,15,16087,Completed
+TXN100481,04-11-2024,Damini Kalla,nirvaansharaf@karan.com,Hyderabad,MH,electronics,Card,2,Thirty Thousand,0,1292,CANCELLED
+TXN100482,26-12-2024,Madhup Mammen,jivin22@gmail.com,Bangalore,TS,electronics,UPI,1,54212,20,1669,completed
+TXN100483,04-07-2025,,vardaniyatailor@yahoo.com,pune,TS,Apparel,COD,-1,Thirty Thousand,120,1581,Returned
+TXN100484,10-03-2025,Raunak Kapur,nitya93@bandi.com,Pune,DL,Electronics,NetBanking,1,34560,15,47849,Completed
+TXN100485,01-12-2024,Aayush Swaminathan,ishita16@gmail.com,Mumbai,TS,Home,NetBanking,2,Thirty Thousand,10,56593,Returned
+TXN100486,26-11-2025,Dishani Shetty,,Bangalore,KA,Electronics,NetBanking,4,34753,0,3334,Completed
+TXN100487,21-06-2024,Samarth Kunda,dayalshalv@biswas.biz,PUNE,Maharashtra,Apparel,UPI,2,Thirty Thousand,120,2381,Returned
+TXN100488,30-12-2024,Faiyaz Upadhyay,mbobal@yahoo.com,Mumbai,KA,Home,Card,4,7580,10,64638,completed
+TXN100489,31-01-2024,Oorja Gaba,,Pune,KA,Electronics,Card,4,Thirty Thousand,5,40182,Returned
+TXN100490,22-04-2025,Tara Dora,telladhanuk@yahoo.com,Mumbai,TS,Home,COD,-1,36323,0,1075,Returned
+TXN100491,18-11-2024,Shlok Krish,nirvaanthaker@kant.com,Pune,MH,electronics,COD,2,Thirty Thousand,5,3287,Completed
+TXN100492,05-08-2025,Eshani Saha,mishabhalla@dutta.com,Bangalore,TS,Apparel,NetBanking,-1,56490,20,3306,Returned
+TXN100493,28-08-2025,Siya Singh,manjaridada@hotmail.com,PUNE,DL,Home,UPI,1,39196,5,48526,CANCELLED
+TXN100494,24-01-2025,Kimaya Karpe,advikrau@gmail.com,PUNE,KA,Home,UPI,2,16727,120,41407,Completed
+TXN100495,08-11-2024,Neysa Sekhon,daminimanne@hotmail.com,Delhi,DL,Electronics,NetBanking,4,Thirty Thousand,10,3174,CANCELLED
+TXN100496,21-01-2025,Shray Bhattacharyya,nsarin@sharaf.com,Pune,KA,Electronics,Card,3,Thirty Thousand,5,2553,Returned
+TXN100497,25-07-2024,Misha Lala,inaaya-15@sachar-sankaran.net,Hyderabad,MH,electronics,COD,3,Thirty Thousand,20,53194,Completed
+TXN100498,29-08-2025,Gatik Agate,,Hyderabad,TS,Apparel,NetBanking,2,23261,120,4234,Returned
+TXN100499,10-11-2025,Kaira Dash,ddhingra@bhasin.com,Mumbai,DL,Apparel,Card,1,41646,20,1844,CANCELLED
+TXN100500,15-10-2025,Navya Gola,shanindrajit@yahoo.com,Hyderabad,KA,Electronics,Card,3,30809,5,2559,Returned
+TXN100501,22-11-2024,Shamik Borde,srinivaseshani@contractor-hayer.com,Bangalore,Maharashtra,Apparel,COD,3,42839,10,2034,completed
+TXN100502,26-04-2024,Neysa Acharya,,Hyderabad,DL,Apparel,NetBanking,-1,Thirty Thousand,120,5350,CANCELLED
+TXN100503,19-05-2024,,mangalranbir@hotmail.com,PUNE,TS,electronics,UPI,4,51764,0,2671,Completed
+TXN100504,20-02-2025,Vivaan Wason,anahi46@gmail.com,Pune,KA,electronics,Card,1,37919,20,4854,Returned
+TXN100505,02-04-2024,Anaya Trivedi,mishagrover@lall.com,Hyderabad,DL,Home,NetBanking,2,28213,5,14500,CANCELLED
+TXN100506,26-03-2025,Madhav Bali,piyakrishnan@yahoo.com,Pune,KA,Home,UPI,3,Thirty Thousand,15,2118,completed
+TXN100507,06-01-2025,Umang Mani,kanav43@hotmail.com,PUNE,MH,Electronics,UPI,2,Thirty Thousand,10,84248,completed
+TXN100508,29-03-2025,Mahika Master,duttaonkar@mander-dhingra.com,Mumbai,DL,Home,UPI,2,19991,5,2698,Completed
+TXN100509,07-10-2024,Shanaya Som,lagan07@gmail.com,Mumbai,KA,Apparel,COD,4,57959,5,34705,CANCELLED
+TXN100510,06-03-2025,Dishani Atwal,rreddy@yahoo.com,Bangalore,DL,Apparel,UPI,1,42533,120,58617,Returned
+TXN100511,23-07-2024,Kimaya Manda,iahluwalia@yahoo.com,Pune,MH,electronics,Card,-1,47264,20,2716,Returned
+TXN100512,16-05-2024,Darshit Trivedi,sanechirag@khurana.biz,Hyderabad,DL,Home,Card,1,Thirty Thousand,5,52076,Completed
+TXN100513,24-01-2024,Divyansh Chakraborty,hiransur@mani-arya.org,Bangalore,Maharashtra,Electronics,NetBanking,2,17656,0,3613,completed
+TXN100514,01-04-2024,Parinaaz Mall,ghoshvardaniya@anne.com,Delhi,MH,Electronics,NetBanking,4,Thirty Thousand,0,29923,CANCELLED
+TXN100515,21-10-2024,Nirvi Konda,takriaan@gmail.com,Mumbai,Maharashtra,electronics,COD,2,27915,15,335,CANCELLED
+TXN100516,29-08-2024,Indrans Ravel,rattananiruddh@gmail.com,PUNE,TS,Apparel,UPI,1,31228,10,1838,Returned
+TXN100517,03-09-2025,Ojas Jani,,Pune,MH,Home,Card,4,23719,0,4233,CANCELLED
+TXN100518,08-02-2025,Zara Venkatesh,suhana25@mahal.com,Delhi,MH,electronics,COD,2,Thirty Thousand,10,61852,CANCELLED
+TXN100519,28-12-2025,Sumer Sabharwal,nirvi69@hotmail.com,Pune,DL,Electronics,Card,4,Thirty Thousand,120,3623,CANCELLED
+TXN100520,19-09-2025,Romil Keer,aayushbora@yahoo.com,Delhi,DL,Apparel,Card,3,Thirty Thousand,5,73333,completed
+TXN100521,01-06-2024,Biju Sachdeva,fateh43@vohra.com,Mumbai,DL,electronics,NetBanking,4,Thirty Thousand,0,3020,Returned
+TXN100522,19-05-2025,Vardaniya Chaudhary,shayak19@hotmail.com,pune,MH,Home,UPI,2,Thirty Thousand,5,4267,completed
+TXN100523,20-08-2025,Sara Dutta,,Hyderabad,TS,electronics,NetBanking,1,Thirty Thousand,120,12860,CANCELLED
+TXN100524,28-11-2025,Mehul Hayre,bijuhari@garde.org,PUNE,TS,Electronics,COD,2,2392,15,4030,CANCELLED
+TXN100525,31-08-2025,Manjari Apte,aaravjha@gmail.com,Pune,TS,Apparel,COD,-1,8975,0,2417,Completed
+TXN100526,13-03-2024,Vedika Deep,fchoudhary@hotmail.com,Pune,KA,Home,Card,2,Thirty Thousand,0,3188,Returned
+TXN100527,16-02-2025,Devansh Kalita,ltak@yahoo.com,Bangalore,Maharashtra,Electronics,COD,4,Thirty Thousand,120,1175,Completed
+TXN100528,11-01-2025,Kabir Chauhan,sachdevdiya@taneja.info,Mumbai,KA,Home,NetBanking,1,Thirty Thousand,10,1626,Returned
+TXN100529,05-04-2024,,kismat18@karnik.com,Mumbai,Maharashtra,electronics,NetBanking,-1,41758,10,61870,Returned
+TXN100530,03-11-2024,Aradhya Sachdeva,umang66@yahoo.com,PUNE,Maharashtra,Apparel,COD,-1,3627,0,981,Returned
+TXN100531,06-04-2024,Bhavin Dyal,inaaya-krish@kade.info,Hyderabad,DL,Home,COD,-1,5858,0,87214,completed
+TXN100532,06-02-2025,,alishabhatia@yahoo.com,Bangalore,DL,Home,NetBanking,4,Thirty Thousand,10,25035,Completed
+TXN100533,10-09-2025,Kimaya Sidhu,kadakiakiara@hotmail.com,Mumbai,TS,Electronics,UPI,4,8146,5,4008,Returned
+TXN100534,04-11-2025,Shray Gara,ayeshadhawan@singh.biz,Mumbai,DL,Home,NetBanking,3,6243,5,2318,Completed
+TXN100535,13-12-2025,Rohan De,ekurian@varghese-sharma.com,pune,KA,electronics,Card,4,55687,0,39941,Returned
+TXN100536,08-03-2025,,krao@kamdar.com,pune,KA,Apparel,NetBanking,1,Thirty Thousand,20,1749,Returned
+TXN100537,22-02-2024,Shray Doctor,,Hyderabad,KA,Apparel,NetBanking,-1,Thirty Thousand,0,3374,Returned
+TXN100538,25-08-2024,Ayesha Desai,eshanisharma@gmail.com,Mumbai,TS,Home,UPI,3,Thirty Thousand,15,4153,Returned
+TXN100539,15-12-2025,Stuvan Chander,indrajitsarma@rama.info,Bangalore,Maharashtra,Apparel,COD,4,15711,20,44953,CANCELLED
+TXN100540,29-12-2025,Kabir Thakur,guhaakarsh@hayer.org,Bangalore,DL,Apparel,Card,-1,Thirty Thousand,120,11797,completed
+TXN100541,23-07-2024,Nayantara Chanda,manikya31@chakraborty.net,Hyderabad,KA,Apparel,COD,2,14225,0,2236,completed
+TXN100542,27-06-2024,Pihu Kuruvilla,keerarmaan@anand.info,Pune,MH,Home,NetBanking,1,40972,0,1935,CANCELLED
+TXN100543,14-12-2024,Lavanya Raval,benyuvaan@walla.info,Hyderabad,TS,Home,Card,-1,40102,120,3686,Completed
+TXN100544,18-04-2024,Samar Uppal,aayushbobal@hotmail.com,Hyderabad,MH,Electronics,UPI,2,41782,5,1386,Returned
+TXN100545,02-06-2025,Azad Dar,cmall@kannan.com,pune,DL,Home,Card,1,56113,15,54993,Returned
+TXN100546,15-12-2024,Anaya Randhawa,mehulsetty@soman-bhardwaj.com,PUNE,DL,Apparel,COD,2,Thirty Thousand,5,3612,Returned
+TXN100547,14-04-2025,Sara Sanghvi,tsathe@yahoo.com,Bangalore,DL,Electronics,NetBanking,2,50972,120,68309,CANCELLED
+TXN100548,18-11-2024,Baiju Gulati,arhaan63@yahoo.com,Mumbai,MH,Apparel,UPI,2,59646,120,4358,Returned
+TXN100549,15-02-2025,Armaan Setty,samarth22@gmail.com,Hyderabad,DL,Home,COD,1,Thirty Thousand,20,1303,Returned
+TXN100550,21-10-2025,Azad Ramachandran,vardaniya19@hotmail.com,Hyderabad,TS,Apparel,COD,4,51316,10,402,Returned
+TXN100551,09-05-2024,Tiya Chandran,bhardwajpriyansh@kothari.com,pune,MH,Home,COD,2,2034,20,78160,CANCELLED
+TXN100552,08-03-2025,Rasha Mahajan,,Pune,DL,Home,COD,1,3628,15,39554,Returned
+TXN100553,13-12-2024,Tejas Gala,daminivarkey@raja.com,Delhi,TS,electronics,COD,3,19147,120,50001,Completed
+TXN100554,01-12-2024,Ela Ram,manjarisama@datta.com,Hyderabad,DL,Apparel,UPI,2,Thirty Thousand,15,11240,Returned
+TXN100555,13-05-2024,Jivika Bhakta,aarush40@gmail.com,PUNE,TS,Apparel,NetBanking,3,Thirty Thousand,120,3705,Returned
+TXN100556,15-06-2024,Adira Mandal,miraan89@khanna.com,Bangalore,KA,electronics,UPI,2,Thirty Thousand,0,4679,Completed
+TXN100557,08-09-2025,Aradhya Chaudhry,,PUNE,TS,Home,UPI,-1,10546,10,3167,CANCELLED
+TXN100558,12-05-2025,,eshanikannan@hotmail.com,Hyderabad,TS,Apparel,UPI,3,Thirty Thousand,5,24496,Completed
+TXN100559,14-07-2025,Shamik Bava,qbains@gmail.com,Mumbai,KA,Home,NetBanking,3,Thirty Thousand,15,79891,Returned
+TXN100560,05-04-2025,Dhruv Sengupta,rajuindrajit@kapadia-sachdeva.com,Bangalore,DL,Electronics,NetBanking,4,Thirty Thousand,10,475,CANCELLED
+TXN100561,23-10-2025,Samaira Kamdar,pari65@gera.com,Pune,TS,Home,UPI,-1,6080,20,71519,completed
+TXN100562,02-05-2025,Nakul Chauhan,,Bangalore,TS,electronics,UPI,3,52060,5,76463,CANCELLED
+TXN100563,15-02-2025,Ranbir Hegde,indranil60@chatterjee.info,Pune,DL,Apparel,Card,4,Thirty Thousand,15,34208,Completed
+TXN100564,08-07-2025,Farhan Sundaram,hsampath@gmail.com,PUNE,MH,electronics,COD,4,44973,0,81040,Completed
+TXN100565,31-12-2025,Lavanya Sathe,subramaniantiya@gmail.com,PUNE,Maharashtra,Apparel,COD,3,25109,0,27049,Returned
+TXN100566,04-06-2025,Hiran Wason,aarush82@gmail.com,Pune,DL,Electronics,COD,4,Thirty Thousand,0,336,completed
+TXN100567,20-01-2024,Bhavin Ratta,mishtiramakrishnan@gmail.com,Bangalore,MH,electronics,Card,3,Thirty Thousand,15,11498,completed
+TXN100568,17-01-2025,Hiran Bedi,tripathianvi@bhardwaj-dhar.com,pune,TS,Apparel,NetBanking,1,Thirty Thousand,20,38412,Completed
+TXN100569,08-05-2025,Shamik Lad,farhanbasu@chadha-shanker.com,Bangalore,KA,Home,Card,-1,Thirty Thousand,0,21657,CANCELLED
+TXN100570,01-04-2024,Oorja Chakraborty,riya70@master.com,pune,TS,Home,NetBanking,2,Thirty Thousand,120,2241,CANCELLED
+TXN100571,08-09-2024,Pari Barman,mannat97@yahoo.com,pune,KA,Home,UPI,2,42865,20,62959,completed
+TXN100572,27-02-2025,Miraan Cheema,hunarkamdar@kar.biz,Mumbai,KA,Electronics,UPI,-1,Thirty Thousand,120,2991,CANCELLED
+TXN100573,31-01-2025,Dhanush Krishnamurthy,ghoseritvik@gmail.com,Bangalore,MH,Electronics,NetBanking,3,Thirty Thousand,0,262,CANCELLED
+TXN100574,15-07-2024,Gokul Mander,aliashan@gmail.com,PUNE,Maharashtra,electronics,NetBanking,3,Thirty Thousand,15,79933,completed
+TXN100575,15-10-2025,Parinaaz Bhakta,routraunak@hotmail.com,Delhi,TS,Apparel,Card,-1,13198,0,77591,completed
+TXN100576,22-09-2024,Mohanlal Dixit,cgarg@yahoo.com,Delhi,DL,electronics,UPI,-1,Thirty Thousand,120,73915,Returned
+TXN100577,18-10-2025,Biju Guha,devanshlata@yahoo.com,Hyderabad,DL,Apparel,NetBanking,3,Thirty Thousand,15,47878,completed
+TXN100578,18-02-2024,Dhanuk Balan,rasha44@vig.info,Mumbai,DL,Electronics,NetBanking,2,22435,20,1948,Completed
+TXN100579,12-09-2024,Myra Sane,vritika46@sant-gupta.info,Pune,MH,Electronics,NetBanking,4,53456,20,2838,completed
+TXN100580,20-04-2024,Tanya Dalal,anikabanerjee@varty.biz,Hyderabad,MH,Home,Card,1,Thirty Thousand,0,82465,Completed
+TXN100581,03-03-2024,Uthkarsh Tailor,diya69@master.biz,Hyderabad,MH,electronics,UPI,4,Thirty Thousand,20,82575,Completed
+TXN100582,24-11-2025,Shayak Vora,,Hyderabad,KA,Apparel,UPI,-1,Thirty Thousand,5,186,Returned
+TXN100583,20-04-2025,Diya Bath,mirayathaman@basak.org,Delhi,MH,Home,UPI,4,Thirty Thousand,20,25728,Completed
+TXN100584,01-09-2025,Aarav Aurora,aarush58@gmail.com,Hyderabad,Maharashtra,electronics,COD,3,Thirty Thousand,120,81876,completed
+TXN100585,20-05-2024,Nirvaan Boase,,PUNE,TS,Apparel,COD,3,38751,5,2628,CANCELLED
+TXN100586,12-01-2025,Dhanush Shere,chatterjeemadhup@atwal.com,Bangalore,Maharashtra,Electronics,Card,-1,54186,15,45564,completed
+TXN100587,11-03-2024,Yasmin Keer,hegdeanika@gmail.com,Bangalore,KA,Home,COD,-1,Thirty Thousand,10,958,Completed
+TXN100588,22-05-2025,Anika Ramakrishnan,,pune,Maharashtra,Apparel,Card,2,Thirty Thousand,120,1781,completed
+TXN100589,07-01-2024,Umang Sem,,Pune,TS,Electronics,Card,3,29362,120,77267,Completed
+TXN100590,22-07-2024,Riya Choudhary,lbutala@sankar.com,PUNE,Maharashtra,Home,Card,2,13344,5,34813,completed
+TXN100591,23-01-2025,Pihu Kadakia,darshit96@yahoo.com,PUNE,Maharashtra,Home,NetBanking,2,Thirty Thousand,120,4416,Completed
+TXN100592,01-05-2024,Nitya Shenoy,tara09@mand-doshi.com,Hyderabad,Maharashtra,electronics,NetBanking,3,Thirty Thousand,120,32553,CANCELLED
+TXN100593,01-06-2024,Manjari Dhar,,Hyderabad,DL,electronics,NetBanking,2,48164,15,87466,Returned
+TXN100594,22-10-2025,Zoya Dasgupta,bhavindubey@hotmail.com,Delhi,KA,electronics,COD,3,Thirty Thousand,120,3981,Returned
+TXN100595,15-10-2025,Rati Banerjee,karhansh@yahoo.com,Pune,Maharashtra,electronics,Card,4,57068,15,2606,Returned
+TXN100596,08-08-2025,Purab Khatri,nitya93@sule.com,PUNE,TS,Electronics,Card,1,Thirty Thousand,20,46581,Returned
+TXN100597,08-06-2025,Ojas Tandon,vaibhavmaster@iyengar-raja.net,Mumbai,KA,Apparel,COD,4,Thirty Thousand,15,1571,completed
+TXN100598,28-09-2024,Pari Tata,ojas83@gmail.com,Pune,DL,Electronics,COD,2,6949,0,47716,CANCELLED
+TXN100599,20-07-2024,Aaina Deo,trisharajagopalan@hotmail.com,Bangalore,DL,electronics,Card,-1,17613,10,2939,Returned
+TXN100600,16-08-2025,Jivin Lanka,,Bangalore,TS,electronics,NetBanking,2,15371,15,4325,Returned
+TXN100601,14-12-2024,Aarav Sandhu,shray78@lata.com,pune,KA,Apparel,Card,4,29989,10,18712,CANCELLED
+TXN100602,10-01-2024,Tiya Mangal,nkota@keer.com,PUNE,DL,electronics,NetBanking,4,Thirty Thousand,120,2554,Completed
+TXN100603,04-08-2025,Charvi Sandal,dyalmiraan@chad.com,pune,DL,Apparel,NetBanking,2,26100,20,1642,Completed
+TXN100604,02-12-2024,Reyansh Chakrabarti,jayeshsavant@gmail.com,PUNE,MH,electronics,UPI,-1,12141,120,79584,completed
+TXN100605,22-07-2024,Samarth Tripathi,indranil11@hotmail.com,PUNE,Maharashtra,electronics,COD,-1,Thirty Thousand,0,48819,completed
+TXN100606,30-11-2024,Tarini Rout,bosevidur@hotmail.com,pune,MH,electronics,NetBanking,4,49202,15,27563,CANCELLED
+TXN100607,18-03-2025,Mannat Chand,onkar08@yahoo.com,pune,TS,Home,Card,-1,Thirty Thousand,10,26937,Returned
+TXN100608,06-03-2024,Anay Rout,aaurora@hotmail.com,pune,TS,Home,NetBanking,4,30823,120,2458,CANCELLED
+TXN100609,18-12-2025,Jhanvi Keer,nmahal@gmail.com,Mumbai,TS,electronics,NetBanking,2,Thirty Thousand,15,50918,Returned
+TXN100610,16-12-2025,Darshit Krishna,mamooty63@sathe-dugar.org,Hyderabad,Maharashtra,Home,COD,1,46247,15,54407,CANCELLED
+TXN100611,19-03-2024,Aarush Bali,sureshfateh@chahal.info,Hyderabad,DL,Apparel,NetBanking,2,17065,20,6350,Completed
+TXN100612,16-10-2025,Rhea Devi,neelofar15@dhaliwal-ratti.com,Mumbai,DL,Apparel,Card,4,2975,10,1218,Returned
+TXN100613,11-05-2025,Ivana Johal,,Bangalore,Maharashtra,Apparel,Card,4,Thirty Thousand,5,22859,completed
+TXN100614,28-10-2024,Hrishita Divan,xseth@sami.info,pune,MH,Electronics,COD,2,Thirty Thousand,5,28899,Returned
+TXN100615,14-12-2025,,ganeshnitara@gmail.com,Delhi,MH,Apparel,COD,4,3935,0,49965,CANCELLED
+TXN100616,01-09-2024,Zoya Buch,,Pune,MH,Home,Card,1,14955,120,22504,Returned
+TXN100617,08-06-2025,Adah Sama,mohanlalkhatri@shan.org,Delhi,Maharashtra,electronics,NetBanking,4,8417,5,3021,completed
+TXN100618,16-01-2024,Divit Ranganathan,tsampath@yahoo.com,Mumbai,Maharashtra,Apparel,Card,1,Thirty Thousand,120,82277,Completed
+TXN100619,11-08-2024,Kavya Ravi,anay78@hotmail.com,Mumbai,MH,electronics,COD,1,Thirty Thousand,120,1188,completed
+TXN100620,12-10-2025,Suhana Deshmukh,ikhosla@grewal-bhatnagar.biz,Hyderabad,KA,Electronics,COD,1,Thirty Thousand,15,67481,completed
+TXN100621,22-01-2024,Renee Gala,vritikadass@issac.com,PUNE,Maharashtra,Apparel,Card,-1,5702,5,4185,completed
+TXN100622,04-06-2024,Baiju Chopra,ritvikdyal@gmail.com,pune,TS,Apparel,COD,2,Thirty Thousand,120,4366,CANCELLED
+TXN100623,25-01-2024,Farhan Sastry,umang87@hotmail.com,PUNE,Maharashtra,electronics,UPI,2,53023,20,4371,completed
+TXN100624,28-03-2025,Dhanuk Gola,,Mumbai,MH,electronics,UPI,2,13883,0,23264,completed
+TXN100625,03-06-2025,Chirag Bail,biju64@cherian-subramaniam.info,PUNE,Maharashtra,electronics,Card,4,12062,10,4822,completed
+TXN100626,05-10-2024,Tushar Wable,balayriaan@sachdeva.com,PUNE,KA,Apparel,Card,4,Thirty Thousand,20,80374,Returned
+TXN100627,21-01-2024,Ryan Kumar,anvi73@yahoo.com,Pune,DL,electronics,Card,3,Thirty Thousand,10,2420,Returned
+TXN100628,14-03-2024,Miraan Bala,drishyaissac@gmail.com,pune,Maharashtra,electronics,UPI,1,Thirty Thousand,15,3506,CANCELLED
+TXN100629,28-01-2025,Khushi Bobal,bainsnakul@hotmail.com,Delhi,MH,Apparel,UPI,1,25719,5,2191,Returned
+TXN100630,12-10-2025,Hrishita Sankaran,samiha66@hotmail.com,Bangalore,KA,Apparel,Card,2,31808,10,83200,CANCELLED
+TXN100631,11-09-2025,Khushi Deo,sabharwalyakshit@yahoo.com,PUNE,Maharashtra,electronics,UPI,1,51026,120,50877,completed
+TXN100632,09-03-2025,Hunar Basu,chandrafaiyaz@ramachandran.biz,Bangalore,DL,Apparel,COD,4,49813,0,4790,completed
+TXN100633,02-10-2024,Gokul Dalal,pdatta@hotmail.com,Mumbai,DL,Electronics,Card,4,603,0,4400,CANCELLED
+TXN100634,17-03-2025,Jiya Jayaraman,ehsaanrandhawa@raj.com,Bangalore,Maharashtra,electronics,NetBanking,2,33439,15,74829,completed
+TXN100635,01-03-2024,Rasha Mangat,sanazachariah@balay.com,pune,DL,Apparel,NetBanking,-1,7656,0,802,Completed
+TXN100636,10-10-2024,Inaaya  Shan,,pune,KA,Apparel,UPI,1,Thirty Thousand,0,87705,Completed
+TXN100637,04-08-2024,Yakshit Sandhu,,Delhi,TS,Home,NetBanking,4,Thirty Thousand,20,2857,CANCELLED
+TXN100638,18-11-2024,Mannat Shroff,qbehl@hotmail.com,Bangalore,KA,Apparel,UPI,3,Thirty Thousand,0,3843,completed
+TXN100639,27-01-2024,Myra Batta,zoya70@shroff-handa.org,PUNE,Maharashtra,Home,NetBanking,-1,Thirty Thousand,20,54649,CANCELLED
+TXN100640,18-01-2024,Purab Kaul,jgulati@choudhary.com,Hyderabad,DL,Apparel,Card,-1,Thirty Thousand,120,766,Returned
+TXN100641,02-05-2025,Khushi Datta,inaaya-87@gmail.com,Pune,KA,Home,Card,2,57507,5,813,Returned
+TXN100642,21-06-2024,Nishith Saran,nbail@gmail.com,Mumbai,TS,electronics,Card,2,11669,0,57502,CANCELLED
+TXN100643,27-01-2025,Suhana Chander,smane@golla.com,PUNE,KA,Electronics,Card,-1,Thirty Thousand,0,44120,CANCELLED
+TXN100644,21-01-2025,Vardaniya Tripathi,yashvidubey@viswanathan.com,Bangalore,KA,Apparel,Card,2,17479,10,11992,CANCELLED
+TXN100645,29-08-2025,Dhruv Krishna,damini61@choudhry.org,Pune,TS,Home,Card,3,25416,10,8611,Returned
+TXN100646,09-03-2025,Shalv Swamy,oorja40@hotmail.com,Bangalore,Maharashtra,electronics,UPI,4,Thirty Thousand,10,19466,Returned
+TXN100647,27-11-2025,Ayesha Magar,fatehraja@yahoo.com,pune,MH,Home,COD,-1,45628,10,75731,Returned
+TXN100648,25-10-2024,Aaryahi Das,gmalhotra@yahoo.com,Hyderabad,DL,electronics,Card,2,46401,5,3309,completed
+TXN100649,23-01-2024,Kartik Ghose,samiha56@yahoo.com,Bangalore,KA,Home,NetBanking,4,Thirty Thousand,10,4589,Completed
+TXN100650,14-05-2024,Riaan Srinivasan,nirvigole@gmail.com,Hyderabad,MH,Home,NetBanking,2,38324,15,63734,completed
+TXN100651,11-08-2024,Samar Chander,krishnamurthyhansh@virk.net,Bangalore,MH,Home,UPI,2,Thirty Thousand,120,22549,CANCELLED
+TXN100652,30-04-2025,Shanaya Rajagopalan,,Delhi,DL,Apparel,Card,4,16556,0,3349,CANCELLED
+TXN100653,05-12-2025,Navya Kamdar,boasenirvaan@yahoo.com,Bangalore,KA,Electronics,NetBanking,4,Thirty Thousand,10,2020,Completed
+TXN100654,04-05-2024,Pihu Dhar,gtiwari@ahuja-mand.com,Delhi,Maharashtra,Electronics,NetBanking,3,45964,20,3245,Returned
+TXN100655,01-11-2024,Divij Batra,,Pune,TS,electronics,NetBanking,1,Thirty Thousand,0,68513,completed
+TXN100656,05-11-2025,Vihaan Aurora,aniruddhchakraborty@dada.net,Delhi,Maharashtra,Electronics,NetBanking,3,8563,5,75877,Completed
+TXN100657,29-07-2025,Nayantara Talwar,thakurkavya@yahoo.com,Pune,MH,Home,COD,-1,Thirty Thousand,120,2134,Completed
+TXN100658,15-06-2025,Dhanuk Ramesh,charvikala@keer-karpe.com,Delhi,KA,electronics,NetBanking,3,Thirty Thousand,20,71044,Completed
+TXN100659,09-11-2025,Shayak Banik,biyengar@gmail.com,pune,Maharashtra,Home,Card,2,39962,20,47563,Returned
+TXN100660,17-03-2024,Sahil Krish,renee61@bal.biz,Bangalore,Maharashtra,Apparel,NetBanking,1,Thirty Thousand,120,19275,Completed
+TXN100661,06-10-2025,Nishith Doctor,hsankar@brar-mani.com,Bangalore,Maharashtra,Home,Card,4,54342,10,57336,completed
+TXN100662,20-03-2024,Vardaniya Gade,aradhyabasak@kanda.info,Bangalore,TS,Apparel,UPI,3,42454,10,44214,completed
+TXN100663,07-10-2024,,ishaansengupta@som-kohli.info,pune,KA,Electronics,UPI,2,Thirty Thousand,20,882,CANCELLED
+TXN100664,18-07-2025,Sahil Deol,,Pune,Maharashtra,Home,NetBanking,2,Thirty Thousand,15,1145,Completed
+TXN100665,04-12-2025,Onkar Kamdar,kalekartik@doctor.com,pune,Maharashtra,Apparel,COD,1,Thirty Thousand,120,3526,completed
+TXN100666,25-03-2025,Yakshit Bajwa,samarth79@gmail.com,Delhi,DL,Home,NetBanking,-1,47585,10,812,Returned
+TXN100667,16-11-2024,Aarav Bhavsar,dhanush97@gmail.com,Pune,Maharashtra,Electronics,Card,-1,4262,120,4639,Completed
+TXN100668,10-03-2025,Shayak Chawla,shanaya58@yahoo.com,pune,KA,Apparel,UPI,4,1410,120,3581,completed
+TXN100669,08-11-2025,Shlok Dugar,kanavsachar@hotmail.com,Delhi,TS,Electronics,NetBanking,2,44705,5,10346,CANCELLED
+TXN100670,22-02-2024,Armaan Lad,ravalaarush@hotmail.com,PUNE,MH,Home,Card,-1,56256,10,4057,CANCELLED
+TXN100671,06-08-2024,,dahluwalia@dash.com,Mumbai,Maharashtra,Home,UPI,4,Thirty Thousand,0,148,CANCELLED
+TXN100672,01-11-2024,Anay Iyer,,Bangalore,Maharashtra,Apparel,COD,1,Thirty Thousand,15,26392,Returned
+TXN100673,06-05-2024,Anya Dugar,,Hyderabad,DL,electronics,NetBanking,4,Thirty Thousand,10,1592,Completed
+TXN100674,25-03-2025,Jivin Borah,ira69@gmail.com,pune,DL,Apparel,UPI,3,58406,0,25346,completed
+TXN100675,08-02-2025,Yakshit Toor,piya73@gmail.com,Pune,Maharashtra,electronics,NetBanking,3,Thirty Thousand,15,72605,CANCELLED
+TXN100676,13-02-2025,Shayak Gera,sdube@gmail.com,Hyderabad,KA,electronics,UPI,1,52451,5,20887,completed
+TXN100677,23-02-2024,Sara Shah,arhaanshan@hotmail.com,Delhi,MH,Apparel,NetBanking,3,Thirty Thousand,0,56723,completed
+TXN100678,12-09-2024,Kimaya Karnik,,PUNE,Maharashtra,Apparel,Card,4,46798,120,66341,completed
+TXN100679,22-08-2024,Badal Master,kismatchad@hotmail.com,PUNE,Maharashtra,electronics,NetBanking,1,40900,0,3215,CANCELLED
+TXN100680,17-12-2025,Vivaan Toor,aaryahicontractor@shukla.com,PUNE,KA,Apparel,UPI,-1,28488,10,2305,CANCELLED
+TXN100681,25-12-2024,Ritvik Johal,hchopra@gmail.com,Pune,Maharashtra,Electronics,UPI,1,Thirty Thousand,5,3967,Completed
+TXN100682,17-03-2025,Mahika Baria,joshivaibhav@lal.com,PUNE,DL,Home,UPI,1,44340,120,1167,CANCELLED
+TXN100683,05-01-2025,Rasha Ahluwalia,ayesha29@tara-thaker.org,Delhi,DL,electronics,COD,2,Thirty Thousand,0,14441,Completed
+TXN100684,23-08-2025,Yashvi Suri,hvasa@savant-bhasin.info,Hyderabad,Maharashtra,electronics,NetBanking,1,Thirty Thousand,10,62654,Completed
+TXN100685,10-05-2024,Ayesha Thakur,bhandariazad@yahoo.com,PUNE,TS,Home,COD,4,41778,15,4055,Completed
+TXN100686,19-06-2024,Rati Krishna,keernayantara@hotmail.com,pune,DL,Electronics,UPI,2,Thirty Thousand,15,70291,completed
+TXN100687,24-03-2025,Zeeshan Chaudhry,saksham18@hotmail.com,Hyderabad,KA,Apparel,COD,2,12562,5,75459,Returned
+TXN100688,30-05-2025,Jhanvi Vyas,psharaf@hotmail.com,PUNE,Maharashtra,Home,COD,-1,8305,5,6478,CANCELLED
+TXN100689,10-02-2024,Mamooty Krishna,ldhar@gmail.com,PUNE,Maharashtra,Home,UPI,2,54463,20,111,CANCELLED
+TXN100690,28-11-2024,Aniruddh Buch,obrar@yahoo.com,Delhi,DL,electronics,NetBanking,-1,Thirty Thousand,0,185,completed
+TXN100691,13-10-2024,Zaina Ghose,pihu49@maharaj-mangal.com,Delhi,TS,Electronics,NetBanking,3,57518,15,2756,completed
+TXN100692,18-08-2025,Kartik Devan,armaanbal@gmail.com,Mumbai,Maharashtra,Apparel,Card,4,24659,15,12780,Returned
+TXN100693,08-07-2024,Miraan Hora,gokulcomar@khatri-batra.info,Delhi,KA,electronics,COD,1,20826,5,52168,completed
+TXN100694,14-03-2024,Fateh Mahajan,elayohannan@bhatti.com,Bangalore,KA,Electronics,Card,1,40037,15,50830,Completed
+TXN100695,21-10-2025,Sara Mane,sawhneyivan@hotmail.com,Hyderabad,MH,Home,Card,-1,1384,0,71589,completed
+TXN100696,22-05-2024,Sana Devan,tandonpriyansh@rao.biz,Mumbai,Maharashtra,Home,COD,4,10626,0,71741,Completed
+TXN100697,15-02-2024,Anahita Shenoy,umangvarghese@gmail.com,Delhi,KA,electronics,UPI,2,2072,15,1307,CANCELLED
+TXN100698,19-08-2024,Indrajit Shetty,tiwarishray@shah-bose.com,Bangalore,MH,Apparel,Card,1,15214,10,724,Completed
+TXN100699,04-01-2025,Zain Zacharia,shankervedika@apte.biz,Pune,TS,electronics,Card,4,Thirty Thousand,20,24271,CANCELLED
+TXN100700,01-10-2025,Biju Chaudhry,adirasur@yahoo.com,Pune,DL,Apparel,COD,3,53631,0,1300,completed
+TXN100701,03-02-2025,Kimaya Balakrishnan,shanayataneja@dave-lalla.org,Mumbai,MH,Electronics,NetBanking,3,9980,10,1589,CANCELLED
+TXN100702,22-11-2024,Samarth Kanda,kvenkataraman@batra-kuruvilla.org,Mumbai,TS,Home,Card,2,Thirty Thousand,20,4513,completed
+TXN100703,28-01-2025,Rasha Shukla,arnavbhagat@yahoo.com,Delhi,TS,electronics,UPI,2,24204,5,3068,completed
+TXN100704,22-04-2024,Nishith Jayaraman,wbhat@hotmail.com,Hyderabad,Maharashtra,Home,NetBanking,2,Thirty Thousand,5,28121,completed
+TXN100705,30-04-2024,Ira Grewal,lavanya58@dora-lanka.biz,Mumbai,MH,Apparel,COD,1,46467,120,704,completed
+TXN100706,31-01-2024,Vritika Hegde,arhaan71@hotmail.com,pune,MH,Electronics,NetBanking,2,50662,15,4420,Returned
+TXN100707,25-02-2025,Gokul Bassi,sagarcharvi@magar-srivastava.com,Bangalore,MH,Home,UPI,2,4432,20,23251,Completed
+TXN100708,09-02-2025,Samaira Kar,stuvanwable@konda.com,Mumbai,TS,Home,COD,2,28265,10,4372,completed
+TXN100709,04-08-2024,Romil Gara,,Mumbai,Maharashtra,Electronics,NetBanking,4,Thirty Thousand,15,547,Returned
+TXN100710,18-07-2024,Sahil Mandal,,PUNE,TS,Home,UPI,2,18994,20,14454,Completed
+TXN100711,12-11-2024,Anya Swamy,dbuch@bumb-dara.net,Pune,Maharashtra,Home,UPI,-1,37514,20,63913,CANCELLED
+TXN100712,05-04-2024,Lavanya Goel,,PUNE,DL,Apparel,Card,3,Thirty Thousand,120,47140,CANCELLED
+TXN100713,21-02-2025,Aarna Walia,jivikavyas@dhar.com,Delhi,Maharashtra,Electronics,NetBanking,4,38927,10,1341,Completed
+TXN100714,02-10-2025,Ivana Rao,srajagopalan@yahoo.com,pune,Maharashtra,electronics,COD,4,51968,10,3051,Completed
+TXN100715,30-12-2025,Mahika Dixit,romil84@deol.com,pune,TS,Electronics,Card,-1,Thirty Thousand,0,1268,Completed
+TXN100716,25-05-2025,Oorja Edwin,hbhandari@rattan-ranganathan.org,PUNE,Maharashtra,Electronics,COD,-1,Thirty Thousand,0,1567,CANCELLED
+TXN100717,29-04-2025,Aaryahi Verma,sarakale@barad.info,Mumbai,Maharashtra,Electronics,NetBanking,1,Thirty Thousand,15,1156,CANCELLED
+TXN100718,08-06-2025,Onkar Kadakia,bandimehul@hotmail.com,PUNE,MH,Apparel,NetBanking,3,58001,20,84892,Completed
+TXN100719,07-06-2024,Heer Chadha,urastogi@venkataraman.com,pune,TS,Apparel,UPI,2,Thirty Thousand,120,2958,Returned
+TXN100720,19-10-2025,Arhaan Maharaj,riaan52@yahoo.com,Pune,MH,electronics,UPI,4,Thirty Thousand,5,53128,CANCELLED
+TXN100721,16-12-2024,Charvi Singhal,gopalkavya@goyal.biz,Bangalore,KA,Electronics,COD,4,3008,15,1848,Completed
+TXN100722,07-09-2025,Krish Rana,,Hyderabad,DL,Apparel,NetBanking,2,4044,0,2310,completed
+TXN100723,26-03-2024,Anvi Kapur,ehsaan79@yahoo.com,Pune,DL,Apparel,NetBanking,-1,Thirty Thousand,5,857,CANCELLED
+TXN100724,31-10-2024,Rania Chowdhury,wbrahmbhatt@hotmail.com,Mumbai,KA,Apparel,Card,4,Thirty Thousand,0,74019,Completed
+TXN100725,14-11-2025,Rohan Bajaj,tanya39@sangha.com,Bangalore,DL,Electronics,Card,4,Thirty Thousand,10,3429,Completed
+TXN100726,06-04-2025,Madhup Sahota,anay89@dave.com,Bangalore,KA,Electronics,UPI,2,49370,15,1460,completed
+TXN100727,22-12-2024,Ayesha Ram,kavyachandra@yahoo.com,Bangalore,TS,Electronics,COD,3,Thirty Thousand,10,1121,Returned
+TXN100728,27-02-2025,Kartik Amble,prishachokshi@hotmail.com,Delhi,KA,Home,UPI,2,Thirty Thousand,10,23686,Returned
+TXN100729,25-01-2025,Jayan Goda,shereshanaya@batta.biz,Bangalore,KA,Home,UPI,1,53318,0,234,Completed
+TXN100730,23-05-2025,Zain Baral,vedikabajwa@yahoo.com,Delhi,MH,Apparel,UPI,3,Thirty Thousand,5,3824,Completed
+TXN100731,19-07-2024,Sana Dave,dewanpiya@sarma-karnik.biz,PUNE,KA,Apparel,NetBanking,1,25052,20,2292,CANCELLED
+TXN100732,28-02-2025,Hiran Zacharia,,Mumbai,MH,Electronics,UPI,2,Thirty Thousand,20,2700,completed
+TXN100733,08-08-2025,Lakshay Bhandari,hboase@yahoo.com,Mumbai,Maharashtra,Apparel,UPI,-1,28621,120,1523,CANCELLED
+TXN100734,13-06-2025,Devansh Bora,zshankar@choudhry-lala.info,Bangalore,Maharashtra,Electronics,NetBanking,3,55375,10,27207,Completed
+TXN100735,23-03-2025,,sarasanghvi@hotmail.com,pune,MH,Electronics,NetBanking,1,49149,15,83660,completed
+TXN100736,30-10-2025,Kashvi Bail,nehmat18@gmail.com,Delhi,Maharashtra,Apparel,COD,1,18520,5,82739,Completed
+TXN100737,15-04-2025,Vritika Thakkar,zeeshan30@gmail.com,pune,DL,Home,Card,1,Thirty Thousand,10,27759,Returned
+TXN100738,23-01-2024,Stuvan Ghose,krishsinha@gulati-jani.com,Bangalore,MH,electronics,NetBanking,4,Thirty Thousand,120,59597,CANCELLED
+TXN100739,11-01-2024,Divij Kari,keyatata@sachdeva.com,Bangalore,TS,Electronics,UPI,3,Thirty Thousand,20,79142,completed
+TXN100740,18-06-2025,Vritika Venkatesh,harifateh@bawa-chhabra.com,pune,TS,Electronics,UPI,-1,34037,5,48326,Completed
+TXN100741,01-12-2024,Gokul Rajagopalan,,Bangalore,Maharashtra,Home,COD,4,13557,10,2511,Returned
+TXN100742,22-03-2025,Siya Gala,hkapadia@kalla-lall.biz,pune,DL,electronics,Card,3,26244,20,77515,completed
+TXN100743,14-05-2025,Tushar Ravi,duttakashvi@hotmail.com,Delhi,DL,Home,UPI,-1,Thirty Thousand,5,2991,Completed
+TXN100744,05-04-2025,Emir Kalita,,Delhi,DL,Apparel,COD,-1,Thirty Thousand,15,4424,CANCELLED
+TXN100745,15-03-2025,Darshit Raj,suhanaswaminathan@dutta.com,Pune,Maharashtra,Home,COD,2,Thirty Thousand,0,1762,CANCELLED
+TXN100746,06-08-2024,Hrishita Date,romillanka@barad.org,pune,TS,Electronics,NetBanking,3,39939,20,943,Completed
+TXN100747,10-08-2025,Tejas Banik,ishitabanerjee@mander.com,Hyderabad,KA,Home,COD,2,13418,15,483,Returned
+TXN100748,02-05-2024,Hridaan Kashyap,cheemaindrajit@yahoo.com,PUNE,TS,Apparel,Card,-1,Thirty Thousand,0,84866,Returned
+TXN100749,18-10-2024,Misha Tailor,solankihrishita@tailor-manne.net,Pune,TS,Electronics,COD,1,Thirty Thousand,0,2565,CANCELLED
+TXN100750,20-12-2024,Ranbir Lad,wadhwaurvi@chander-wable.com,PUNE,KA,Electronics,NetBanking,3,Thirty Thousand,15,1094,Completed
+TXN100751,30-01-2024,Aarna Hora,badalsamaira@hotmail.com,pune,MH,Home,NetBanking,2,11653,5,48849,Completed
+TXN100752,22-09-2024,Divit Ramesh,,Pune,DL,Electronics,COD,3,Thirty Thousand,10,1228,Completed
+TXN100753,09-05-2024,Arhaan Comar,cherianadah@andra-loke.org,Delhi,KA,Apparel,UPI,-1,35076,20,4114,CANCELLED
+TXN100754,09-05-2025,Aarav Basu,sarinarnav@yahoo.com,PUNE,MH,Home,Card,2,46045,0,65328,Completed
+TXN100755,17-11-2025,Anvi Agarwal,kanavbansal@dara-devi.biz,pune,KA,Electronics,COD,2,Thirty Thousand,10,60009,completed
+TXN100756,12-08-2024,Trisha Chandra,dhanuk32@hotmail.com,Mumbai,TS,electronics,NetBanking,2,Thirty Thousand,15,22021,completed
+TXN100757,17-04-2025,Madhup Chopra,tsani@gmail.com,pune,MH,Apparel,Card,3,Thirty Thousand,120,3808,CANCELLED
+TXN100758,01-05-2024,Fateh Sagar,,Mumbai,Maharashtra,electronics,NetBanking,-1,Thirty Thousand,0,2333,Completed
+TXN100759,20-02-2024,Raghav Kanda,samar38@gmail.com,Mumbai,Maharashtra,Home,Card,4,Thirty Thousand,20,4143,Completed
+TXN100760,28-11-2025,,lgoswami@hotmail.com,Pune,Maharashtra,Electronics,UPI,1,Thirty Thousand,5,9130,CANCELLED
+TXN100761,19-08-2024,Samar Jain,vaibhavmani@saini.com,Mumbai,KA,Apparel,UPI,2,Thirty Thousand,15,27462,CANCELLED
+TXN100762,14-10-2025,Zoya Dass,emir77@srinivas.biz,Bangalore,MH,Electronics,Card,-1,Thirty Thousand,120,40519,CANCELLED
+TXN100763,28-11-2025,Jivika Johal,dhillonanya@das.com,Mumbai,Maharashtra,Electronics,NetBanking,4,22392,5,35081,Completed
+TXN100764,31-08-2025,Amani Dara,xsule@shah-kari.com,Pune,KA,electronics,NetBanking,1,3460,20,89635,completed
+TXN100765,30-05-2024,Veer Krishnan,,Hyderabad,DL,Apparel,NetBanking,3,Thirty Thousand,120,2176,Returned
+TXN100766,14-01-2024,Tanya Sachar,gokulgoswami@sastry-issac.org,PUNE,TS,Apparel,UPI,3,45443,5,54281,CANCELLED
+TXN100767,24-05-2025,,mtrivedi@gmail.com,Bangalore,KA,Home,Card,1,Thirty Thousand,120,2343,completed
+TXN100768,28-09-2024,Farhan Singhal,lchowdhury@yahoo.com,PUNE,KA,Apparel,COD,3,12989,20,68667,Returned
+TXN100769,10-04-2025,Stuvan Sagar,manicharvi@yahoo.com,PUNE,DL,Electronics,UPI,4,45426,15,1330,completed
+TXN100770,06-11-2024,Arnav Choudhry,,PUNE,MH,Apparel,UPI,2,19047,0,64511,Returned
+TXN100771,26-12-2024,Vivaan Verma,,PUNE,Maharashtra,Home,COD,-1,44102,0,35977,Returned
+TXN100772,22-08-2025,Nishith Dixit,nkari@yahoo.com,Pune,KA,Home,Card,4,Thirty Thousand,0,2574,completed
+TXN100773,31-07-2025,Azad Behl,piyashenoy@hotmail.com,Hyderabad,TS,electronics,Card,3,Thirty Thousand,20,2566,Completed
+TXN100774,31-10-2024,Ishita Raju,ramanamani@hotmail.com,Delhi,Maharashtra,Apparel,NetBanking,1,Thirty Thousand,120,4227,Returned
+TXN100775,28-12-2024,Biju Bora,kiaanbhalla@contractor.biz,Mumbai,KA,Electronics,UPI,4,6295,20,2087,completed
+TXN100776,27-09-2025,Shlok Dutta,purabgandhi@yahoo.com,PUNE,MH,Apparel,Card,4,44414,15,68396,Completed
+TXN100777,26-02-2024,Raghav De,shaanrao@raja.com,Pune,DL,Electronics,COD,-1,Thirty Thousand,0,16417,completed
+TXN100778,12-06-2025,Mishti Chakraborty,tsingh@bhasin-golla.biz,Mumbai,Maharashtra,electronics,Card,3,Thirty Thousand,120,1345,Completed
+TXN100779,09-03-2024,,riya73@yahoo.com,Pune,TS,Electronics,Card,2,Thirty Thousand,0,3735,Completed
+TXN100780,04-05-2024,Tanya Shere,ianand@hotmail.com,pune,Maharashtra,Home,NetBanking,-1,Thirty Thousand,5,83887,completed
+TXN100781,04-11-2025,Nishith Wable,sarabhatia@yahoo.com,Bangalore,TS,electronics,NetBanking,4,Thirty Thousand,120,4923,CANCELLED
+TXN100782,14-11-2025,Anvi Sastry,hunardey@yahoo.com,Hyderabad,MH,Apparel,NetBanking,4,10210,10,1084,Completed
+TXN100783,17-08-2025,Neelofar Rajagopalan,bawaumang@bava.biz,Bangalore,TS,Apparel,UPI,3,Thirty Thousand,120,60576,completed
+TXN100784,01-01-2025,Sumer Varghese,lakshit40@johal.org,pune,DL,Apparel,UPI,2,43486,10,4713,Returned
+TXN100785,23-05-2024,Aayush Karan,fshanker@sanghvi.com,PUNE,KA,Electronics,NetBanking,4,31416,20,4404,completed
+TXN100786,15-12-2025,Nirvi Master,ryantandon@hotmail.com,PUNE,TS,Apparel,UPI,1,2434,5,970,Returned
+TXN100787,27-11-2024,Vardaniya Goel,vasaindrajit@gmail.com,Hyderabad,Maharashtra,Electronics,Card,4,Thirty Thousand,0,8616,Completed
+TXN100788,15-03-2024,Kavya Vala,shanaya32@hotmail.com,Bangalore,MH,electronics,COD,1,Thirty Thousand,15,17960,completed
+TXN100789,15-09-2024,Jayan Desai,charvi36@yahoo.com,pune,Maharashtra,electronics,NetBanking,-1,53497,0,76798,completed
+TXN100790,04-02-2024,Taimur Gill,myra76@badal.net,PUNE,KA,Electronics,COD,2,Thirty Thousand,5,4772,CANCELLED
+TXN100791,31-12-2024,Ahana  Gaba,psubramaniam@gmail.com,pune,MH,Apparel,NetBanking,4,57776,20,1141,Completed
+TXN100792,30-04-2024,Indranil Sahota,,Delhi,DL,Electronics,Card,3,Thirty Thousand,15,47411,CANCELLED
+TXN100793,17-03-2024,Priyansh Keer,mahika01@ray.info,Delhi,TS,Home,NetBanking,-1,4212,20,62232,Completed
+TXN100794,12-12-2024,Pari Luthra,riaanramaswamy@iyengar.com,Hyderabad,MH,electronics,Card,-1,Thirty Thousand,120,2030,Completed
+TXN100795,31-07-2025,Aradhya Dhaliwal,faiyaz17@gmail.com,Hyderabad,MH,Home,UPI,4,39700,20,1160,Completed
+TXN100796,16-04-2024,,vihaan86@yahoo.com,Bangalore,DL,Apparel,NetBanking,3,51719,0,7755,Returned
+TXN100797,29-11-2025,Ryan Bhardwaj,,Mumbai,MH,Apparel,NetBanking,2,Thirty Thousand,20,1046,Completed
+TXN100798,22-09-2025,Badal Goyal,anvisharma@bala-sethi.com,pune,DL,Apparel,UPI,2,15706,20,1960,Completed
+TXN100799,16-01-2024,Vidur Bains,bhattiadira@hotmail.com,Pune,MH,Electronics,Card,4,Thirty Thousand,0,41673,CANCELLED
+TXN100800,12-05-2024,Uthkarsh Tata,psengupta@yahoo.com,Pune,MH,Electronics,COD,-1,Thirty Thousand,120,1904,CANCELLED
+TXN100801,10-01-2025,Kaira Karnik,divanpari@gmail.com,Bangalore,Maharashtra,Home,COD,-1,33493,0,3465,CANCELLED
+TXN100802,21-03-2024,Mahika Rajan,hrishita27@hotmail.com,Delhi,Maharashtra,Home,Card,1,24904,0,3706,Completed
+TXN100803,22-01-2024,Anahita Bassi,,PUNE,TS,Apparel,COD,1,Thirty Thousand,20,50823,Returned
+TXN100804,28-01-2025,Eshani Sarma,nitya57@hotmail.com,Mumbai,Maharashtra,Apparel,UPI,3,Thirty Thousand,0,2854,completed
+TXN100805,29-01-2024,Khushi Varkey,wsabharwal@gmail.com,Mumbai,KA,Electronics,UPI,-1,Thirty Thousand,20,3572,completed
+TXN100806,25-01-2025,Shalv Dutta,hansh10@barad.com,pune,Maharashtra,Electronics,COD,3,6105,20,2865,Completed
+TXN100807,22-09-2025,Elakshi Shah,hansh81@sami.com,PUNE,TS,Electronics,UPI,3,Thirty Thousand,10,3735,Completed
+TXN100808,26-03-2025,,,PUNE,KA,electronics,NetBanking,1,38482,10,4617,Completed
+TXN100809,27-03-2025,Arnav Bail,vartyprerak@shankar.net,PUNE,DL,Apparel,Card,2,41809,5,81495,Completed
+TXN100810,01-11-2025,,mishavohra@kari.com,Hyderabad,KA,Home,UPI,-1,47512,0,34454,CANCELLED
+TXN100811,07-07-2025,Vardaniya Kuruvilla,pchaudhary@gmail.com,PUNE,MH,Electronics,NetBanking,1,33991,5,2768,Returned
+TXN100812,14-03-2024,Kartik Chaudry,dishanirana@kant.net,pune,MH,Home,COD,3,Thirty Thousand,15,39043,CANCELLED
+TXN100813,15-02-2024,Advika Dubey,mranganathan@khalsa.com,Delhi,MH,Electronics,Card,3,Thirty Thousand,5,50155,completed
+TXN100814,25-01-2025,Biju Sheth,adah08@swamy.net,Pune,Maharashtra,Apparel,UPI,-1,52811,20,4396,CANCELLED
+TXN100815,02-10-2024,Nakul Rattan,isani@hotmail.com,pune,DL,electronics,COD,2,Thirty Thousand,120,2074,Returned
+TXN100816,05-01-2025,Krish Ramaswamy,rhea74@yahoo.com,Pune,DL,Apparel,Card,4,Thirty Thousand,5,75124,Returned
+TXN100817,21-11-2025,Samaira Deep,advik35@sathe-varkey.com,PUNE,DL,Home,COD,1,Thirty Thousand,15,1315,completed
+TXN100818,03-07-2024,Ela Khalsa,,Pune,KA,Home,NetBanking,1,8783,15,3636,completed
+TXN100819,11-06-2025,Indrans Barad,zbakshi@gmail.com,Mumbai,DL,electronics,NetBanking,-1,Thirty Thousand,0,44646,Completed
+TXN100820,16-03-2024,Prisha Keer,magaryuvaan@shah.biz,Mumbai,KA,Apparel,NetBanking,3,Thirty Thousand,120,18143,completed
+TXN100821,08-01-2024,Indranil Dhaliwal,sanghaaayush@yahoo.com,Bangalore,KA,Apparel,COD,4,Thirty Thousand,0,2535,CANCELLED
+TXN100822,19-02-2024,Mannat Rajan,pihusandhu@hotmail.com,Delhi,TS,Apparel,COD,3,Thirty Thousand,5,19269,Returned
+TXN100823,15-06-2025,Mamooty Sem,wdani@yahoo.com,PUNE,MH,Home,COD,2,Thirty Thousand,10,64284,completed
+TXN100824,22-10-2024,Miraya Krishna,shenoyrati@gmail.com,Delhi,MH,electronics,COD,2,6789,20,67176,Completed
+TXN100825,06-07-2025,Himmat Sidhu,nakulbath@yahoo.com,Mumbai,MH,Home,Card,3,Thirty Thousand,120,58804,Returned
+TXN100826,29-10-2024,Seher Gola,ishaanamble@gmail.com,Hyderabad,MH,Apparel,NetBanking,4,17739,5,1054,Completed
+TXN100827,15-08-2024,Ranbir Suresh,jivika78@hotmail.com,Delhi,DL,Home,NetBanking,-1,44545,120,414,Completed
+TXN100828,23-12-2025,Kimaya Barad,mishtibawa@rajan-venkataraman.com,Hyderabad,TS,Electronics,UPI,2,Thirty Thousand,5,1702,Returned
+TXN100829,04-06-2024,Advika Raja,hgoel@gmail.com,Mumbai,DL,electronics,Card,1,34336,0,651,completed
+TXN100830,28-12-2025,Jhanvi Varghese,nirvibatra@cheema.com,PUNE,TS,Apparel,Card,3,32234,10,2493,Returned
+TXN100831,07-10-2025,Samar Shah,mishtithakur@mammen.com,Mumbai,DL,Electronics,Card,1,Thirty Thousand,15,59111,Returned
+TXN100832,28-04-2024,Divit Baria,vanya96@yahoo.com,Bangalore,MH,Home,NetBanking,2,Thirty Thousand,15,79281,Completed
+TXN100833,24-10-2024,Aaryahi Reddy,wallakabir@kapur-handa.com,Hyderabad,KA,Electronics,COD,3,Thirty Thousand,15,3720,Returned
+TXN100834,23-09-2024,Vardaniya Iyer,advika64@hotmail.com,Bangalore,Maharashtra,Home,UPI,3,Thirty Thousand,5,75539,Completed
+TXN100835,20-09-2025,Ehsaan Jain,akarshjain@dutta.info,Delhi,MH,Electronics,NetBanking,1,Thirty Thousand,10,72968,completed
+TXN100836,05-01-2025,Adah Sundaram,kabirtara@yahoo.com,Hyderabad,TS,Apparel,Card,3,53013,10,43950,completed
+TXN100837,14-01-2024,,,Delhi,MH,Apparel,NetBanking,1,Thirty Thousand,10,3677,Completed
+TXN100838,05-10-2024,Mehul Vyas,kashvibandi@gmail.com,Mumbai,KA,electronics,COD,1,5515,20,54944,completed
+TXN100839,07-04-2024,Hunar Varkey,csachdeva@som.info,pune,TS,Home,COD,4,34077,10,36420,Completed
+TXN100840,27-09-2024,Anaya Baral,aliaviswanathan@yahoo.com,Mumbai,DL,Apparel,UPI,2,Thirty Thousand,15,37779,Returned
+TXN100841,18-01-2024,Lavanya Bhatt,takadira@gmail.com,PUNE,TS,Electronics,NetBanking,2,38371,15,3762,Returned
+TXN100842,30-07-2025,Rasha Ram,tgopal@borra.com,pune,MH,Electronics,Card,2,Thirty Thousand,20,33263,Returned
+TXN100843,23-09-2025,Pranay Sampath,duttishaan@kade.com,Hyderabad,TS,electronics,UPI,4,Thirty Thousand,10,44785,CANCELLED
+TXN100844,06-12-2025,Fateh Ranganathan,balannehmat@wason-sule.org,Pune,DL,electronics,NetBanking,-1,Thirty Thousand,120,2736,Returned
+TXN100845,10-06-2025,Mamooty Talwar,vasaivan@kumer.com,Bangalore,MH,Electronics,NetBanking,1,25120,0,21745,completed
+TXN100846,21-07-2024,Dharmajan Ravel,fwali@ratti-hayre.com,Pune,KA,Apparel,Card,-1,32428,120,3525,Completed
+TXN100847,30-10-2024,Tiya Sen,stuvan63@hotmail.com,Bangalore,DL,Home,COD,-1,43112,5,38536,CANCELLED
+TXN100848,15-06-2025,Divyansh Halder,waglezaina@hotmail.com,pune,DL,electronics,Card,-1,Thirty Thousand,0,42140,completed
+TXN100849,26-04-2025,Navya Sehgal,ehsaan35@yahoo.com,PUNE,Maharashtra,electronics,UPI,-1,Thirty Thousand,0,8509,Completed
+TXN100850,24-12-2024,Kiaan Agarwal,voraprisha@chandra.info,PUNE,MH,electronics,COD,3,Thirty Thousand,20,3108,CANCELLED
+TXN100851,28-07-2025,Neelofar Ram,dugaradah@hotmail.com,Pune,TS,electronics,UPI,2,18849,10,74380,Returned
+TXN100852,04-12-2024,Aaryahi Khatri,hiranbalakrishnan@bal.org,Delhi,DL,Apparel,Card,2,675,5,12471,completed
+TXN100853,01-05-2025,Manjari Chad,farhandeo@yahoo.com,Pune,Maharashtra,Apparel,NetBanking,4,Thirty Thousand,20,2072,Returned
+TXN100854,29-01-2025,Miraan Sanghvi,samaalia@dass.biz,Hyderabad,TS,Home,UPI,-1,55693,5,83569,Returned
+TXN100855,27-07-2025,Jayesh Ramesh,suhana88@gmail.com,PUNE,MH,Apparel,COD,2,Thirty Thousand,15,2934,completed
+TXN100856,23-09-2025,Saksham Kohli,fatehkhatri@mammen.com,pune,KA,Home,Card,1,Thirty Thousand,10,69444,CANCELLED
+TXN100857,02-12-2024,Mamooty Mandal,framaswamy@hotmail.com,PUNE,TS,Electronics,COD,1,Thirty Thousand,120,63248,CANCELLED
+TXN100858,07-10-2024,Vardaniya Sandhu,mohanlal00@yahoo.com,Hyderabad,MH,Apparel,NetBanking,4,Thirty Thousand,120,85375,Completed
+TXN100859,13-01-2025,,ishitakurian@apte.org,pune,Maharashtra,electronics,UPI,4,55161,0,610,Completed
+TXN100860,11-07-2025,Alia Swamy,sehgalpihu@hotmail.com,Bangalore,TS,Electronics,COD,3,59334,20,48505,Returned
+TXN100861,02-03-2025,Divyansh Lal,samiha55@hotmail.com,Pune,Maharashtra,electronics,COD,1,Thirty Thousand,0,1727,completed
+TXN100862,12-10-2025,Sana Sinha,framaswamy@hotmail.com,Pune,DL,Home,COD,1,Thirty Thousand,20,4738,Completed
+TXN100863,29-04-2024,Shlok Basu,aarush55@golla-dar.org,Pune,Maharashtra,Home,UPI,2,52190,5,3168,Completed
+TXN100864,09-09-2024,Mamooty Amble,bailamira@yahoo.com,Hyderabad,Maharashtra,electronics,COD,1,Thirty Thousand,5,1250,Returned
+TXN100865,19-08-2024,Riya Mammen,bhaktaurvi@hotmail.com,pune,Maharashtra,Home,COD,4,17837,15,4840,CANCELLED
+TXN100866,19-10-2025,Anahi Shanker,mahalsahil@yahoo.com,Bangalore,Maharashtra,Electronics,NetBanking,2,35755,120,2941,completed
+TXN100867,16-12-2024,Abram Chopra,singhaltarini@desai-chad.com,Hyderabad,DL,Electronics,Card,3,Thirty Thousand,10,4621,Returned
+TXN100868,23-05-2024,Amira Chakrabarti,vramanathan@yahoo.com,Delhi,KA,Electronics,COD,1,Thirty Thousand,0,3552,CANCELLED
+TXN100869,10-12-2024,Yuvraj  Bhalla,,PUNE,DL,electronics,NetBanking,-1,12700,15,3839,Returned
+TXN100870,29-04-2025,Jivin Chokshi,bchauhan@yahoo.com,PUNE,TS,Home,NetBanking,4,20172,5,983,Returned
+TXN100871,02-10-2024,Azad Madan,divit81@yahoo.com,Pune,Maharashtra,electronics,COD,-1,46219,20,1164,Completed
+TXN100872,02-04-2024,Mishti Babu,ishaan42@doshi-kari.org,Hyderabad,DL,Apparel,NetBanking,2,30685,120,19831,CANCELLED
+TXN100873,10-11-2024,Biju Dayal,sdas@hotmail.com,pune,KA,Electronics,Card,2,Thirty Thousand,0,1405,Completed
+TXN100874,27-04-2025,Dhanush Sama,xbhat@basu-kara.com,pune,KA,Apparel,NetBanking,2,50507,15,17343,Returned
+TXN100875,30-11-2024,Riaan Ghosh,sjhaveri@hotmail.com,Bangalore,KA,Apparel,UPI,3,32501,5,80260,CANCELLED
+TXN100876,05-01-2025,Nirvaan Gulati,lwarrior@hotmail.com,Delhi,TS,Apparel,UPI,2,Thirty Thousand,5,1830,Returned
+TXN100877,05-04-2024,Tarini Bali,chhabraadah@hotmail.com,Mumbai,Maharashtra,Home,COD,4,Thirty Thousand,0,34712,completed
+TXN100878,11-02-2025,Oorja Sachar,chackoamira@gmail.com,Mumbai,MH,Home,UPI,4,53161,5,1154,Returned
+TXN100879,12-01-2024,Kavya Rastogi,krishhansh@yahoo.com,Mumbai,KA,Electronics,COD,4,17450,20,4212,Returned
+TXN100880,30-12-2025,Tanya Datta,gillvivaan@korpal.info,PUNE,MH,electronics,NetBanking,-1,Thirty Thousand,120,10986,CANCELLED
+TXN100881,25-12-2025,Manikya Mand,ojas93@yahoo.com,Hyderabad,TS,Apparel,NetBanking,1,Thirty Thousand,0,4110,CANCELLED
+TXN100882,21-02-2024,Amani Baral,doctordishani@chopra.org,PUNE,KA,Home,COD,1,Thirty Thousand,5,3023,Completed
+TXN100883,02-04-2025,Keya Jain,eshanikhurana@hotmail.com,Delhi,MH,Home,UPI,-1,Thirty Thousand,5,23468,completed
+TXN100884,28-05-2024,Shaan Bhatt,rrajagopal@gmail.com,PUNE,DL,Apparel,Card,-1,Thirty Thousand,0,2775,Completed
+TXN100885,30-05-2024,Badal Mandal,dubeyzaina@deshmukh.com,Hyderabad,MH,Apparel,UPI,3,Thirty Thousand,15,53025,CANCELLED
+TXN100886,30-10-2025,Umang Swamy,,Mumbai,MH,electronics,COD,3,40842,120,3165,completed
+TXN100887,23-03-2025,Yasmin Bhargava,adira83@gmail.com,pune,DL,Electronics,NetBanking,2,Thirty Thousand,10,1162,Completed
+TXN100888,28-02-2025,Onkar Gupta,ishaansaxena@hotmail.com,Mumbai,TS,Home,UPI,2,15234,120,43047,CANCELLED
+TXN100889,30-12-2025,Keya Dixit,uppaladira@butala.biz,Mumbai,TS,Home,NetBanking,4,37046,10,2718,Returned
+TXN100890,04-06-2024,Nirvaan Sabharwal,hridaanmaster@yahoo.com,pune,TS,electronics,NetBanking,3,26906,120,743,CANCELLED
+TXN100891,26-03-2024,Mahika Chakraborty,ojasmaharaj@hotmail.com,PUNE,DL,Home,COD,4,Thirty Thousand,0,20934,CANCELLED
+TXN100892,01-08-2025,Dharmajan Sridhar,shayak01@yahoo.com,Pune,DL,Apparel,Card,4,35731,15,80076,Returned
+TXN100893,11-08-2024,Dishani Yadav,,PUNE,Maharashtra,electronics,NetBanking,-1,Thirty Thousand,5,2384,CANCELLED
+TXN100894,07-10-2025,Veer Bhagat,sharmadhanush@hotmail.com,Bangalore,DL,Apparel,Card,4,Thirty Thousand,10,59411,Returned
+TXN100895,22-10-2024,,anvi67@viswanathan.info,Hyderabad,KA,electronics,UPI,4,Thirty Thousand,15,54278,completed
+TXN100896,21-05-2024,Ira Sama,jatwal@dugal.com,Pune,TS,Apparel,UPI,3,40464,5,75120,CANCELLED
+TXN100897,24-01-2024,Purab Agarwal,csem@hotmail.com,Bangalore,KA,electronics,Card,4,24686,5,1736,completed
+TXN100898,27-10-2024,Samar Dani,,Delhi,KA,Apparel,Card,-1,29575,5,60977,CANCELLED
+TXN100899,12-06-2024,Aarush Buch,mishabhardwaj@gmail.com,Pune,MH,Electronics,NetBanking,-1,Thirty Thousand,0,55168,Completed
+TXN100900,25-03-2025,Mannat Kapur,kismatchaudhry@gmail.com,PUNE,KA,Electronics,COD,4,Thirty Thousand,15,16760,CANCELLED
+TXN100901,16-08-2025,Krish Reddy,,pune,DL,Apparel,COD,2,Thirty Thousand,5,895,Completed
+TXN100902,14-04-2025,Darshit Choudhry,ddara@gmail.com,pune,DL,Home,COD,4,Thirty Thousand,120,4754,Completed
+TXN100903,23-05-2024,Ivan Bala,dishanijain@hotmail.com,pune,DL,Home,COD,3,47413,20,2596,Returned
+TXN100904,20-11-2025,Renee Kalita,jhanvisharaf@gmail.com,Bangalore,Maharashtra,electronics,COD,4,17362,0,4877,completed
+TXN100905,21-08-2025,,chanderraghav@arora-aggarwal.com,Delhi,TS,Apparel,NetBanking,-1,59482,10,1376,CANCELLED
+TXN100906,22-01-2025,Hunar Sane,horauthkarsh@hotmail.com,pune,TS,Apparel,Card,4,Thirty Thousand,0,630,completed
+TXN100907,12-11-2024,Onkar Chand,tray@hotmail.com,Delhi,MH,electronics,COD,4,30602,120,69197,CANCELLED
+TXN100908,11-11-2025,,rajapari@shanker.com,PUNE,TS,Electronics,COD,-1,35545,0,59041,completed
+TXN100909,19-09-2024,Lakshay Sangha,mammenamira@gmail.com,Bangalore,Maharashtra,electronics,NetBanking,2,Thirty Thousand,20,36869,Completed
+TXN100910,15-05-2024,Rhea Vaidya,,pune,Maharashtra,Apparel,NetBanking,1,35688,10,83587,Returned
+TXN100911,29-04-2024,Ryan Babu,sandalanika@yahoo.com,Pune,TS,electronics,NetBanking,3,37811,20,1013,completed
+TXN100912,26-08-2025,Hrishita Sharma,neelofar07@bhatia-sethi.com,Mumbai,MH,Home,NetBanking,-1,Thirty Thousand,120,2792,CANCELLED
+TXN100913,22-10-2025,Hazel Chand,bkashyap@mallick-kumer.org,pune,DL,Home,COD,4,7805,15,2714,Returned
+TXN100914,16-06-2024,Tushar Dar,diyabutala@batra.com,Bangalore,DL,Electronics,NetBanking,3,42304,5,14749,CANCELLED
+TXN100915,28-05-2025,Yuvraj  Bali,badaminehmat@kalla-toor.info,Mumbai,MH,Home,Card,-1,44532,10,1672,completed
+TXN100916,10-06-2024,Vardaniya Sarkar,aurorakismat@yahoo.com,Delhi,KA,Apparel,COD,2,Thirty Thousand,10,1287,CANCELLED
+TXN100917,28-12-2024,Yakshit Biswas,ykeer@gmail.com,PUNE,KA,Apparel,NetBanking,1,Thirty Thousand,0,54080,Returned
+TXN100918,07-10-2024,,kaira00@hotmail.com,pune,DL,Home,COD,1,Thirty Thousand,15,43188,completed
+TXN100919,24-09-2025,Priyansh Bose,goyalnakul@sami.biz,Pune,MH,electronics,Card,3,Thirty Thousand,120,78217,Returned
+TXN100920,05-12-2025,Jayant Maharaj,nitara20@yahoo.com,pune,DL,Apparel,UPI,1,Thirty Thousand,10,3126,CANCELLED
+TXN100921,23-04-2024,Sana Vyas,raunak64@dave.org,Pune,DL,Apparel,Card,2,Thirty Thousand,20,26713,Returned
+TXN100922,08-09-2024,Ahana  Sur,navyaramesh@gmail.com,Bangalore,DL,Home,UPI,2,51100,120,3059,completed
+TXN100923,07-07-2024,Vaibhav Bhalla,xvasa@gmail.com,PUNE,DL,electronics,COD,3,40058,5,3465,Returned
+TXN100924,13-05-2025,Nirvi Chadha,banerjeeveer@hotmail.com,Pune,TS,Home,UPI,-1,29152,20,4513,CANCELLED
+TXN100925,11-08-2025,Kavya Dass,,Pune,TS,Electronics,UPI,-1,10869,20,61900,Returned
+TXN100926,10-10-2024,Reyansh Chakrabarti,aaravbajwa@gmail.com,Bangalore,Maharashtra,Home,UPI,2,Thirty Thousand,15,69668,Returned
+TXN100927,11-08-2025,Ojas Chaudhary,sawhneydhanuk@yahoo.com,Mumbai,MH,Electronics,Card,3,28493,10,4887,Returned
+TXN100928,31-10-2025,Kiaan Dasgupta,lalaivana@bakshi-chawla.com,Delhi,DL,electronics,Card,2,Thirty Thousand,5,13724,completed
+TXN100929,07-07-2025,Mishti Setty,,Hyderabad,DL,electronics,Card,2,20352,15,36030,CANCELLED
+TXN100930,28-01-2024,Alia Devi,randhawaarnav@iyengar.info,Mumbai,MH,Apparel,UPI,4,57354,15,3760,Returned
+TXN100931,22-07-2024,Charvi Bose,soodmamooty@yahoo.com,Hyderabad,MH,Electronics,Card,-1,38399,5,1085,CANCELLED
+TXN100932,20-11-2024,Heer Dasgupta,sahniarhaan@kalita-sule.net,Pune,TS,Home,NetBanking,3,33840,15,159,Returned
+TXN100933,13-02-2025,Anvi Sant,,PUNE,DL,Electronics,NetBanking,3,15531,120,3292,Completed
+TXN100934,08-10-2024,Saanvi Bhattacharyya,katavivaan@hotmail.com,Pune,Maharashtra,electronics,Card,-1,1107,20,1248,Completed
+TXN100935,03-03-2024,Shamik Ramachandran,badalzacharia@hotmail.com,Bangalore,DL,Home,NetBanking,2,27975,5,68473,CANCELLED
+TXN100936,22-04-2024,Misha Krishna,,pune,DL,Apparel,COD,3,Thirty Thousand,0,3885,Returned
+TXN100937,05-02-2024,Renee Samra,xdoctor@manda-sani.net,Mumbai,MH,Apparel,Card,2,7061,10,854,Completed
+TXN100938,25-04-2024,Lavanya Joshi,manikyasarin@yahoo.com,Mumbai,TS,Apparel,Card,-1,53546,10,3946,completed
+TXN100939,26-11-2024,Tejas Rege,drishyasidhu@yahoo.com,Delhi,MH,Apparel,NetBanking,-1,13363,5,67967,completed
+TXN100940,06-11-2025,Hridaan Dhawan,,Mumbai,DL,Electronics,Card,2,16927,120,2566,Returned
+TXN100941,15-11-2025,Ishita Basak,aarna05@kibe.com,PUNE,Maharashtra,Home,NetBanking,3,43832,20,4985,completed
+TXN100942,05-07-2024,,aniruddhbail@jani-ganesan.com,Hyderabad,Maharashtra,electronics,NetBanking,3,Thirty Thousand,15,1638,Returned
+TXN100943,07-08-2024,Lakshit Raman,gandhiaarush@goswami-rajagopal.com,Mumbai,MH,Home,COD,3,58992,10,4092,Completed
+TXN100944,15-11-2025,Madhav Gokhale,tatamehul@bahl.com,PUNE,MH,Home,NetBanking,1,36106,0,30269,Completed
+TXN100945,17-07-2025,Mehul Dani,kalabaiju@yahoo.com,PUNE,DL,Apparel,NetBanking,-1,5937,15,67465,completed
+TXN100946,18-01-2024,Shayak Sharma,aayushvarghese@gmail.com,Delhi,TS,electronics,UPI,-1,24267,120,1466,completed
+TXN100947,12-04-2024,Renee Sule,darshitde@gmail.com,Hyderabad,TS,electronics,Card,-1,Thirty Thousand,5,500,CANCELLED
+TXN100948,03-02-2025,Tiya Bahl,mannat44@hotmail.com,Mumbai,KA,Home,Card,3,523,10,73344,Completed
+TXN100949,01-03-2024,Suhana Sani,ggera@chatterjee.com,Mumbai,Maharashtra,electronics,NetBanking,2,Thirty Thousand,15,78018,CANCELLED
+TXN100950,13-03-2024,Hrishita Sani,vaibhav34@hotmail.com,pune,KA,Electronics,Card,2,29557,120,36606,Completed
+TXN100951,17-06-2025,Zeeshan Singhal,,Bangalore,TS,Apparel,Card,4,20083,20,80458,Completed
+TXN100952,15-12-2024,Madhav Apte,sshanker@gmail.com,Pune,KA,Home,UPI,4,28412,120,64371,Completed
+TXN100953,31-03-2024,Tara Kibe,senguptaparinaaz@yahoo.com,Delhi,DL,electronics,NetBanking,4,28134,120,2395,CANCELLED
+TXN100954,17-10-2025,Samaira Sood,kannannitya@gmail.com,Hyderabad,DL,Home,UPI,1,Thirty Thousand,5,77279,Returned
+TXN100955,12-11-2025,Arnav Korpal,waglepriyansh@sen-chana.com,Hyderabad,KA,Apparel,NetBanking,1,39930,20,84737,Completed
+TXN100956,01-09-2024,Shaan Shere,pranay32@singh.com,Delhi,KA,Apparel,UPI,3,Thirty Thousand,15,75649,Returned
+TXN100957,05-10-2025,Eshani Kaur,rhealad@sunder.com,Pune,Maharashtra,electronics,UPI,3,Thirty Thousand,15,3840,CANCELLED
+TXN100958,30-11-2025,Nishith Manne,samihagrewal@barad.com,pune,DL,Apparel,UPI,3,Thirty Thousand,5,4675,Returned
+TXN100959,22-12-2024,Lavanya Kibe,pranaygade@ganesh-upadhyay.com,Mumbai,MH,Home,COD,-1,35773,10,40586,Returned
+TXN100960,16-11-2024,Shamik Gill,barmanhridaan@varughese-jani.com,Hyderabad,KA,electronics,COD,4,Thirty Thousand,15,47877,CANCELLED
+TXN100961,17-01-2024,Prerak Kuruvilla,andramanikya@yahoo.com,Delhi,TS,Home,Card,4,41032,5,841,CANCELLED
+TXN100962,29-05-2024,Rohan Dara,lalpurab@hotmail.com,Mumbai,Maharashtra,Apparel,UPI,3,40701,10,29968,completed
+TXN100963,15-07-2025,Vivaan Issac,hridaanmander@ghosh.com,Pune,KA,electronics,Card,2,57852,15,85420,Completed
+TXN100964,30-10-2024,Saira Cherian,,Delhi,KA,Apparel,NetBanking,-1,36625,15,4348,Returned
+TXN100965,24-09-2024,Rania Sibal,vedikabutala@gmail.com,Hyderabad,DL,Apparel,COD,3,59485,10,71327,completed
+TXN100966,25-11-2024,Bhavin Loyal,abram14@gmail.com,pune,TS,electronics,UPI,-1,Thirty Thousand,20,41589,CANCELLED
+TXN100967,19-12-2025,Hansh Chakrabarti,ritvik52@gmail.com,pune,KA,Home,UPI,4,Thirty Thousand,15,77971,completed
+TXN100968,23-01-2024,Eva Jhaveri,sahnidhanuk@yahoo.com,Pune,DL,Apparel,Card,1,Thirty Thousand,0,4767,Completed
+TXN100969,31-12-2025,Riaan Seth,nitya58@gmail.com,Hyderabad,Maharashtra,Apparel,Card,4,Thirty Thousand,10,4768,completed
+TXN100970,06-07-2025,Stuvan Talwar,ayeshaatwal@dugar-rao.info,Hyderabad,MH,Electronics,COD,-1,8343,20,4439,completed
+TXN100971,18-07-2024,Pari Swaminathan,yagate@gmail.com,Hyderabad,Maharashtra,electronics,UPI,4,48253,10,871,Returned
+TXN100972,21-02-2025,Samar Sachar,jhanvimane@yahoo.com,Hyderabad,DL,electronics,UPI,3,23775,120,2164,Completed
+TXN100973,07-07-2024,Tarini Wagle,mishti27@kala-deshmukh.com,PUNE,MH,Home,NetBanking,1,Thirty Thousand,0,79950,CANCELLED
+TXN100974,07-04-2024,Madhav Tak,eshani83@lall.com,Delhi,MH,Electronics,COD,4,20571,20,74341,completed
+TXN100975,12-07-2024,Kiaan Sahota,hazel18@gmail.com,Delhi,Maharashtra,Home,UPI,2,Thirty Thousand,20,23690,completed
+TXN100976,31-03-2025,,,Delhi,MH,Home,COD,1,23375,20,68459,Returned
+TXN100977,16-07-2024,Taimur Dhillon,subramaniamsaksham@gmail.com,PUNE,KA,Apparel,NetBanking,1,44324,10,32772,completed
+TXN100978,17-05-2025,Amira Ray,mehul09@sathe-thaker.com,PUNE,MH,Apparel,UPI,-1,Thirty Thousand,20,4811,completed
+TXN100979,16-10-2024,Nayantara Dey,lakshitbuch@tripathi.com,pune,DL,Apparel,NetBanking,4,25211,15,3623,CANCELLED
+TXN100980,28-07-2025,Abram Choudhury,stuvan95@gmail.com,Mumbai,DL,Electronics,UPI,2,Thirty Thousand,20,75378,CANCELLED
+TXN100981,19-02-2024,Shaan Kade,,PUNE,KA,electronics,COD,-1,Thirty Thousand,120,67133,CANCELLED
+TXN100982,28-11-2025,Urvi Bandi,dhanush67@hotmail.com,Pune,KA,electronics,Card,3,5281,15,27597,Completed
+TXN100983,25-01-2025,Raunak Dey,rasha04@venkatesh.com,PUNE,MH,electronics,COD,2,26053,10,53185,completed
+TXN100984,05-09-2025,Kabir Char,shettyanahita@gmail.com,Mumbai,TS,Home,Card,3,27317,15,3189,completed
+TXN100985,14-05-2025,Zara Bail,,Bangalore,KA,Electronics,NetBanking,2,43947,0,84071,completed
+TXN100986,15-05-2025,Alia Malhotra,zbhatia@arya.com,pune,DL,Apparel,COD,-1,Thirty Thousand,20,34775,Returned
+TXN100987,25-07-2024,Uthkarsh Wable,lraval@hotmail.com,Mumbai,Maharashtra,electronics,UPI,4,31879,0,411,completed
+TXN100988,26-03-2024,Taimur Chhabra,gopalivan@dhillon.com,pune,KA,Home,NetBanking,2,29468,120,66510,CANCELLED
+TXN100989,14-02-2024,Dharmajan Sant,tellaraghav@hotmail.com,PUNE,DL,electronics,COD,4,13649,15,1354,Completed
+TXN100990,18-08-2024,Tiya Chaudhuri,kmahajan@randhawa.biz,Bangalore,KA,Electronics,NetBanking,1,55774,20,69778,completed
+TXN100991,14-07-2025,Keya Malhotra,,Bangalore,MH,Apparel,UPI,-1,47717,120,42660,completed
+TXN100992,16-04-2024,Seher Rajagopal,,Pune,TS,Electronics,NetBanking,-1,8340,120,5113,Completed
+TXN100993,26-10-2025,Anika Mander,kanav31@gmail.com,Delhi,KA,Home,NetBanking,4,49525,120,2148,Returned
+TXN100994,05-05-2025,Baiju Dara,nchhabra@hotmail.com,Delhi,DL,electronics,Card,3,42252,15,1413,Completed
+TXN100995,18-03-2025,Jivika Chatterjee,shamik46@anne.net,Mumbai,KA,electronics,NetBanking,2,Thirty Thousand,5,3549,Returned
+TXN100996,08-04-2025,Priyansh Dass,dugarsaira@gmail.com,PUNE,DL,Home,NetBanking,2,47902,5,28937,CANCELLED
+TXN100997,19-04-2025,Jiya Verma,umang02@sunder-balay.com,Mumbai,DL,Home,Card,4,Thirty Thousand,0,3805,Returned
+TXN100998,22-02-2024,Yashvi Virk,ganeshumang@saraf.org,pune,KA,Apparel,Card,4,2062,15,1511,completed
+TXN100999,18-10-2025,Madhup Chacko,raniabhattacharyya@yahoo.com,pune,Maharashtra,Apparel,COD,4,16602,15,41946,Completed
+TXN101000,07-03-2024,Zara Chaudry,,Hyderabad,MH,Home,UPI,3,Thirty Thousand,5,1844,Completed
